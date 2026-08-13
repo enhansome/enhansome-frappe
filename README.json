@@ -1,0 +1,3553 @@
+{
+  "items": [
+    {
+      "description": "Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework written in Python and Javascript with MariaDB (and Postgres too) as the database. It is the framework which powers ERPNext, is pretty generic and can be used to build database driven apps.",
+      "items": [],
+      "title": "Introduction"
+    },
+    {
+      "description": "Apps that showcase the power of the Frappe Framework",
+      "items": [],
+      "title": "Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "CRM",
+          "description": "Fully featured, open source CRM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-13T15:58:38Z",
+            "owner": "frappe",
+            "repo": "crm",
+            "stars": 3323
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "School",
+          "description": "The Learning Management System (LMS) that powers mon.school & frappe.school.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-13T11:30:28Z",
+            "owner": "frappe",
+            "repo": "lms",
+            "stars": 3128
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Insights",
+          "description": "Free and Open Source Data Analytics Tool for your Frappe Apps",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:28:01Z",
+            "owner": "frappe",
+            "repo": "insights",
+            "stars": 1000
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Education",
+          "description": "Open source education / school management system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T07:44:02Z",
+            "owner": "frappe",
+            "repo": "education",
+            "stars": 598
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Healthcare",
+          "description": "An open source management system crafted for the medical industry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:17:00Z",
+            "owner": "earthians",
+            "repo": "marley",
+            "stars": 520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gameplan",
+          "description": "Delightful, open-source, work communication tool for remote teams.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T11:49:37Z",
+            "owner": "frappe",
+            "repo": "gameplan",
+            "stars": 511
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "URY - Open Source Restaurant Management System",
+          "description": "URY is an open-source ERP designed to simplify and streamline restaurant operations, built over ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T18:14:11Z",
+            "owner": "ury-erp",
+            "repo": "ury",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lending",
+          "description": "Open Source Lending software.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T19:04:08Z",
+            "owner": "frappe",
+            "repo": "lending",
+            "stars": 328
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mail",
+          "description": "Frappe Mail.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2026-08-10T04:04:28Z",
+            "owner": "frappe",
+            "repo": "mail",
+            "stars": 213
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Webshop",
+          "description": "eCommerce Platform for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-25T14:44:24Z",
+            "owner": "frappe",
+            "repo": "webshop",
+            "stars": 197
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Restaurant",
+          "description": "Restaurant App for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-01-29T03:17:59Z",
+            "owner": "alphabit-technology",
+            "repo": "erpnext-restaurant",
+            "stars": 189
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Payments",
+          "description": "A payments app for frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T10:03:43Z",
+            "owner": "frappe",
+            "repo": "payments",
+            "stars": 172
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Cargo Management",
+          "description": "Package Management App for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-31T23:25:11Z",
+            "owner": "AgileShift",
+            "repo": "cargo_management",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Clefincode Chat",
+          "description": "ERPNext/Frappe Business Chat: A self-hosted communication solution.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T16:25:55Z",
+            "owner": "clefincode",
+            "repo": "clefincode_chat",
+            "stars": 115
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALYF Banking",
+          "description": "ALYF Banking is a seamless solution to connect and reconcile your bank accounts with ERPNext. It supports a robust Bank Integration (via EBICS) and a modern Bank Reconciliation tool ⚡",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T12:01:18Z",
+            "owner": "alyf-de",
+            "repo": "banking",
+            "stars": 109
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Agriculture",
+          "description": "Agriculture Domain for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-26T11:45:53Z",
+            "owner": "frappe",
+            "repo": "agriculture",
+            "stars": 102
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hospitality",
+          "description": "Hospitality app for ERPNext to manage hotels & restaurants.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-02-16T13:56:45Z",
+            "owner": "frappe",
+            "repo": "hospitality",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PropMS",
+          "description": "Property Management Solution Powered on ERPNext by Aakvatech.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-08-08T19:14:39Z",
+            "owner": "aakvatech",
+            "repo": "PropMS",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Non Profit",
+          "description": "Non Profit module for Frappe/ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-07-12T07:35:19Z",
+            "owner": "frappe",
+            "repo": "non_profit",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Apparelo",
+          "description": "Manufacturing Workflow Management for the garment industry.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-04-22T05:25:49Z",
+            "owner": "aerele",
+            "repo": "apparelo",
+            "stars": 59
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mon School",
+          "description": "Frappe App for Mon School based on Frappe LMS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-14T06:45:45Z",
+            "owner": "fossunited",
+            "repo": "mon_school",
+            "stars": 47
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expenses",
+          "description": "An expenses management module for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-20T21:28:29Z",
+            "owner": "kid1194",
+            "repo": "erpnext_expenses",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AuMMS",
+          "description": "Aurum Manufacturing Management System for Gold Manufacturing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T10:17:46Z",
+            "owner": "efeone",
+            "repo": "aumms",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ServiceMS",
+          "description": "Service Management System for ERPNext by Aakvatech.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-01T05:10:16Z",
+            "owner": "aakvatech",
+            "repo": "servicems",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FiMax",
+          "description": "Loan Management and Repayment Scheduling for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-02-01T22:18:33Z",
+            "owner": "YefriTavarez",
+            "repo": "fimax",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UPH (Unified Party Hub)",
+          "description": "A comprehensive master data hub for managing parties in ERPNext. Provides unified party profiles, enable easy multicurrency support, relationships, multi party roles, validations, and advanced master-data governance inspired by SAP BP and Oracle Tca.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T15:50:09Z",
+            "owner": "Sendipad",
+            "repo": "uph",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stone Warehouse",
+          "description": "Manage batch wise balance, especially setup for a ceramic tiles vendor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-05T07:54:54Z",
+            "owner": "finbyz",
+            "repo": "stonewarehouse",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discipline HR",
+          "description": "Advanced attendance discipline, grace management and automated payroll penalties for ERPNext HRMS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-18T08:28:15Z",
+            "owner": "Cre8tivMaxx",
+            "repo": "discipline_hr",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DeskAllocationSystem",
+          "description": "A gamified office management app for Frappe/ERPNext that automates quarterly team seating shuffles with a randomized desk-to-employee distribution engine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-01T06:25:15Z",
+            "owner": "yashtilala412",
+            "repo": "Desk_Allocation_System",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ifitwala Ed",
+          "description": "Full Education Operating System built on Frappe (independent of ERPNext) with admissions/CRM, student management, timetabling, transcripts, four user portals (staff/students/guardians/admissions), health, accounting, HR, and assessment modules.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-15T15:16:05Z",
+            "owner": "fderyckel",
+            "repo": "ifitwala_ed",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Business Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "TailPOS",
+          "description": "Offline First Open Source POS for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-10-12T03:00:22Z",
+            "owner": "bailabs",
+            "repo": "tailpos",
+            "stars": 663
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POS Awesome",
+          "description": "An open-source Point of Sale for ERPNext using Vue.js and Vuetify.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2024-08-12T16:24:25Z",
+            "owner": "ucraft-com",
+            "repo": "POS-Awesome",
+            "stars": 512
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POSNext",
+          "description": "POSNext is a modern, open-source Point of Sale for ERPNext, offering fast billing, multiple payment methods, smart discounts, offline mode, and a clean touchscreen-friendly UI—built to handle real retail operations with speed and reliability.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-08-13T13:38:56Z",
+            "owner": "BrainWise-DEV",
+            "repo": "POSNext",
+            "stars": 146
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POS-Awesome-V15",
+          "description": "the enhance version with more bugs fixed and multiple currency add thanks to @defendicon",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-28T13:43:03Z",
+            "owner": "defendicon",
+            "repo": "POS-Awesome-V15",
+            "stars": 108
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext POS Hardware Integrations",
+          "description": "Weigh scale integration, Stripe Terminal integration, and Raw printing via QZ Tray",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-02-02T00:14:57Z",
+            "owner": "aisenyi",
+            "repo": "pasigono",
+            "stars": 50
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "X POS",
+          "description": "X POS is a feature-rich, offline-first Point of Sale application built on Frappe and ERPNext. It delivers a fast, keyboard-driven, and fully offline-capable POS experience for retail, hospitality, and service businesses — deployable as a web app, PWA, or Electron desktop application.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T14:05:04Z",
+            "owner": "kodlyft",
+            "repo": "xpos",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext: POS Restrictions",
+          "description": "ERPNext plugin that helps in adding some restrictions over default POS.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-25T22:30:30Z",
+            "owner": "kid1194",
+            "repo": "erpnext_pos_controller",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "POS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Raven",
+          "description": "Simple, open source team messaging platform built for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T18:15:27Z",
+            "owner": "The-Commit-Company",
+            "repo": "raven",
+            "stars": 749
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Print Designer",
+          "description": "Frappe app to design print formats using interactive UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-31T14:44:09Z",
+            "owner": "frappe",
+            "repo": "print_designer",
+            "stars": 443
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wiki",
+          "description": "Wiki for serving dynamic data along with a built-in review system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T15:47:06Z",
+            "owner": "frappe",
+            "repo": "wiki",
+            "stars": 426
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chat",
+          "description": "Modern chat for your Frappe deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "JavaScript",
+            "last_commit": "2023-11-09T08:17:30Z",
+            "owner": "frappe",
+            "repo": "chat",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext OCR",
+          "description": "Optical Character Recognition using Tesseract within Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T12:38:16Z",
+            "owner": "Monogramm",
+            "repo": "erpnext_ocr",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext Quota",
+          "description": "App to manage ERPNext Site, User, Company and Space limitations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-29T06:54:22Z",
+            "owner": "ahmadpak",
+            "repo": "erpnext_quota",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bench Manager",
+          "description": "Frappe app for managing bench.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-10-31T20:18:42Z",
+            "owner": "frappe",
+            "repo": "bench_manager",
+            "stars": 77
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Background Tasks Unleashed",
+          "description": "A Frappe Task Scheduling and Automation.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-11T03:57:53Z",
+            "owner": "Datahenge",
+            "repo": "btu",
+            "stars": 65
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Go1 CMS",
+          "description": "Advanced Content Management System built on Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-12T10:46:45Z",
+            "owner": "TridotsTech",
+            "repo": "go1cms",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pibicut",
+          "description": "URL Shortener with QR Code Generator.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-04T11:31:40Z",
+            "owner": "pibico",
+            "repo": "pibicut",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Alerts",
+          "description": "Displays custom alerts to specific recipients after login.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-22T22:11:51Z",
+            "owner": "kid1194",
+            "repo": "frappe_alerts",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe PWA",
+          "description": "PWA setup for Frappe website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-17T12:53:40Z",
+            "owner": "Monogramm",
+            "repo": "frappe_pwa",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Event Streaming",
+          "description": "Event Streaming for frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-08-25T07:57:34Z",
+            "owner": "frappe",
+            "repo": "event_streaming",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ProjectIT",
+          "description": "Open Source PWA mobile app to track the Employees out in the field.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-07-13T04:19:49Z",
+            "owner": "Arus-Info",
+            "repo": "ProjectIT",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe System Monitor",
+          "description": "Web interface for webserver running processes and system utilization (RAM, CPU, Disk)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-30T21:02:49Z",
+            "owner": "mymi14s",
+            "repo": "frappe_system_monitor",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ghost",
+          "description": "Headless identity and OTP authentication engine for Frappe. Centralizes Guest Sessions, Secure Login, and seamless Ghost-to-Real User conversion for building modern Web & Mobile apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T10:36:56Z",
+            "owner": "muneeb141",
+            "repo": "ghost",
+            "stars": 25
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "XcelForm",
+          "description": "A powerful app for Exporting Doctype data to Excel with custom formats in Frappe/ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-24T07:26:49Z",
+            "owner": "jezlan",
+            "repo": "xcelform",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe ReST API Wrapper",
+          "description": "Build custom ReST api's on top of Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-11-25T01:02:51Z",
+            "owner": "pifabs",
+            "repo": "restipie",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enhanced Kanban View",
+          "description": "Frappe Kanban boards with Link field columns, validation dialogs, and automatic synchronization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-03T14:28:06Z",
+            "owner": "ibrahim317",
+            "repo": "enhanced_kanban_view",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Private Comment",
+          "description": "App that allows controlling comment visibility for tagged user and user-groups with three modes: Private, Public & Mentioned",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-13T10:52:39Z",
+            "owner": "rtCamp",
+            "repo": "frappe-comment-xt",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Private Attachments",
+          "description": "Make all frappe attachments as private by default.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-01-25T09:45:08Z",
+            "owner": "shridarpatil",
+            "repo": "frappe_private_attachments",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Temporal",
+          "description": "An ERPNext App that integrates with Redis to rapidly provide calendar information.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T18:07:56Z",
+            "owner": "Datahenge",
+            "repo": "temporal",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bulk Webhook",
+          "description": "Bulk Webhook allows creating webhook that sends multiple records and also reports from ERPNext, and has support for Apache Kafka.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-21T14:42:43Z",
+            "owner": "aakvatech",
+            "repo": "Bulk-Webhook",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Dynamic OG",
+          "description": "Dynamic OG Image Generation in Frappe Sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-24T04:16:40Z",
+            "owner": "NagariaHussain",
+            "repo": "frappe_dynamic_og",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SmartConnect Mobile Application",
+          "description": "Interactive Mobile Application (Pre-release Alpha Version)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-10-27T10:42:28Z",
+            "owner": "Midocean-Technologies",
+            "repo": "mtpl_api",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Crispy Print",
+          "description": "Typst-powered printing and report formatting engine for Frappe with a visual builder and code-level control for consistent, production-quality PDFs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T05:52:49Z",
+            "owner": "agatho-daemon",
+            "repo": "crispy_print",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Web Push",
+          "description": "Enables native local browser toast notifications without the need for remote servers like firebase or frappe-cloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-05T22:19:34Z",
+            "owner": "meichthys",
+            "repo": "frappe_web_push",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "In-Context Translation",
+          "description": "In-context translation for Frappe & ERPNext with automated suggestions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-13T04:09:27Z",
+            "owner": "Mazen-Almortada",
+            "repo": "incontext_translation",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Matcha",
+          "description": "Faster payment reconciliation for ERPNext with a React UI, FX gain/loss preview, cross-company reconciliation, and undo support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-03-26T08:33:09Z",
+            "owner": "Negentropy-Solutions",
+            "repo": "matcha",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Release",
+          "description": "Manage releases for Frappe and Frappe Applications.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-04-23T15:30:55Z",
+            "owner": "frappe",
+            "repo": "release",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sentry",
+          "description": "Send error logs to Sentry for debugging.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-09T01:49:02Z",
+            "owner": "ParsimonyGit",
+            "repo": "frappe-sentry",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mind Map",
+          "description": "Create, edit, and navigate interactive mind maps inside Frappe Desk for planning, documentation trees, and knowledge organization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-05-17T07:11:17Z",
+            "owner": "nilpatel42",
+            "repo": "mind_map",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Item Code Generator",
+          "description": "Define template Items with placeholders in that auto-substitute from Item Attribute SKU codes when generating single or multi-attribute variants (e.g. → ).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-17T17:13:35Z",
+            "owner": "grandpaSam",
+            "repo": "item-code-generator",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Utility Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "changAI",
+          "description": "AI-powered assistant for ERPNext that lets users ask business questions in plain English and get instant answers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T17:24:23Z",
+            "owner": "ERPGulf",
+            "repo": "changai",
+            "stars": 63
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kai",
+          "description": "Custom Frappe App to integrate AI Agents as DocTypes using CrewAI & Frappe Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-30T23:28:25Z",
+            "owner": "KorucuTech",
+            "repo": "kai",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ask ALYF",
+          "description": "Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T11:38:31Z",
+            "owner": "alyf-de",
+            "repo": "ask_alyf",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Photos",
+          "description": "AI powered Image classification & labelling similar to Google Photos in Desk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-08T08:19:00Z",
+            "owner": "gavindsouza",
+            "repo": "photos",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext Copilot",
+          "description": "AI-powered assistant for ERPNext that lets users query data, perform actions, generate charts, and schedule reports in plain English.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-11T04:05:27Z",
+            "owner": "byt3crafter",
+            "repo": "erpnext-copilot",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextAssist",
+          "description": "AI-powered chat assistant for Frappe/ERPNext with multi-provider support (OpenAI, Claude, Gemini), streaming responses, and a secure RestrictedPython sandbox.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-04-13T17:36:40Z",
+            "owner": "navdeepghai",
+            "repo": "nextassist",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Flow",
+          "description": "Flow puts an AI assistant inside your Frappe site. It knows your DocTypes, respects your permissions, and can operate your site in plain English — creating records, sending emails, building DocTypes, creating agents and tools, and setting up RAG chatbots.",
+          "children": []
+        }
+      ],
+      "title": "AI & Assistants"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Silent Print",
+          "description": "Utility App for printing documents silently, that is, without having to interact with browser's print dialog and send the printing order directly to the printer(s).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-29T19:03:05Z",
+            "owner": "roquegv",
+            "repo": "Silent-Print-ERPNext",
+            "stars": 64
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Attachment Control extended",
+          "description": "Plugin that gives you more control over the attachments at field level.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-06-12T23:59:40Z",
+            "owner": "kid1194",
+            "repo": "frappe-better-attach-control",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List View extended",
+          "description": "List view plugin with more customization sugar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-05-30T18:45:18Z",
+            "owner": "kid1194",
+            "repo": "frappe-better-list-view",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe tinyMCE",
+          "description": "Replace frappe's Quill Text Editor with tinyMCE Text Editor.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-08T12:10:06Z",
+            "owner": "shridarpatil",
+            "repo": "frappe_tinymce",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Active User Lister",
+          "description": "App that displays a list of current active users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-23T21:41:40Z",
+            "owner": "kid1194",
+            "repo": "frappe-active-users",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OIDC Extended",
+          "description": "An extension to the ERPNext Social Login authentication method (OIDC) that incorporates new features designed to meet the needs of enterprises.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-22T20:48:19Z",
+            "owner": "MohammedNoureldin",
+            "repo": "frappe-oidc-extended",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Desk Navbar Extended",
+          "description": "Frappe's Navbar, slightly salted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-26T16:26:37Z",
+            "owner": "gavindsouza",
+            "repo": "desk-navbar-extended",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jodit HTML Editor",
+          "description": "Replace Quill Text Editor With Jodit HTML Editor on WebPage and WebForm for Frappe/ERPNext Version 11 & 12.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-04-10T10:20:34Z",
+            "owner": "ashish-greycube",
+            "repo": "jodit_html_editor",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Export Setting",
+          "description": "This app allows you to predefine the fields you want to export from any given doctype in Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-02-21T16:30:49Z",
+            "owner": "zaid2229",
+            "repo": "Export-Settings",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Select Control extended",
+          "description": "Plugin that adds the support of options group to the select control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-08-14T16:05:41Z",
+            "owner": "kid1194",
+            "repo": "frappe-better-select-control",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Translator",
+          "description": "Automatic language translator on Frappe Desk and website.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-10-09T19:52:13Z",
+            "owner": "mymi14s",
+            "repo": "language_translator",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext: Fiscal Year",
+          "description": "Desk plugin that makes date related fields respect the start and end dates of default fiscal year.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-18T17:21:51Z",
+            "owner": "kid1194",
+            "repo": "ERPNext-Fiscal-Year-Based-Date-Related-Fields",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Numeric Control extended",
+          "description": "Allows for more control over numeric fields on Website & Desk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-21T22:06:56Z",
+            "owner": "kid1194",
+            "repo": "frappe-better-numerical-controls",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Msdoc Template",
+          "description": "Generate documents from MS Docs templates (.docx and .xlsx)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-02-11T16:53:12Z",
+            "owner": "rareMaxim",
+            "repo": "frappe_msdoc_template",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BPMN Diagrams",
+          "description": "Adds a BPMN fieldtype to Frappe (powered by bpmn.io) so you can draw BPMN diagrams on any DocType.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-18T23:19:30Z",
+            "owner": "geraldmeunier",
+            "repo": "frappe_bpmn_diagrams",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Language Toggle",
+          "description": "Button on navbar to toggle language in ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-07T14:20:41Z",
+            "owner": "zaid2229",
+            "repo": "language-toggle",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Database Console",
+          "description": "Execute SQL queries directly from Frappe/ERPNext desk just like 'bench mariadb'.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-09T17:32:06Z",
+            "owner": "mymi14s",
+            "repo": "database_console",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "List View: Unassign From",
+          "description": "A Frappe plugin that adds the support of unassign from for multiple selection in Desk's List View.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-10-23T21:59:12Z",
+            "owner": "kid1194",
+            "repo": "frappe-list-unassign-from",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Strict Session Defaults",
+          "description": "Enforces and manages the session defaults popup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-12-17T18:28:55Z",
+            "owner": "kid1194",
+            "repo": "frappe-strict-session-defaults",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Plugins"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "WhatsApp Integration",
+          "description": "WhatsApp Cloud Integration for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T12:27:02Z",
+            "owner": "shridarpatil",
+            "repo": "frappe_whatsapp",
+            "stars": 460
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram Integration",
+          "description": "Telegram Integration app for more productivity.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-25T12:12:22Z",
+            "owner": "yrestom",
+            "repo": "erpnext_telegram",
+            "stars": 148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Twilio Integration",
+          "description": "Twilio Integration for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-05T19:29:21Z",
+            "owner": "frappe",
+            "repo": "twilio-integration",
+            "stars": 80
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WABA Integration",
+          "description": "WhatsApp Business Cloud API integration for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-12-19T12:29:19Z",
+            "owner": "frappe",
+            "repo": "waba_integration",
+            "stars": 76
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Telegram Bot Manager",
+          "description": "Telegram Bot support for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-15T08:49:19Z",
+            "owner": "leam-tech",
+            "repo": "frappe_telegram",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FCM Notification for ERPNext",
+          "description": "Send notifications created in Frappe or ERPNext as push notication via Firebase Cloud Message.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-06-13T11:05:24Z",
+            "owner": "tridz-dev",
+            "repo": "erpnext_fcm",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MSG91 Integration",
+          "description": "Integration with the MSG91 SMS gateway for Frappe Framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-16T05:30:45Z",
+            "owner": "dhwani-ris",
+            "repo": "frappe_msg91_integration",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mandrill Integration",
+          "description": "Mandrill Integration for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-08-26T13:18:27Z",
+            "owner": "frappe",
+            "repo": "mandrill_integration",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Communications"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Banking API Integration",
+          "description": "Bank API Integration for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-23T18:16:20Z",
+            "owner": "aerele",
+            "repo": "bank_api_integration",
+            "stars": 72
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNextFinTS",
+          "description": "FinTS Connector for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-01-27T11:03:08Z",
+            "owner": "jHetzer",
+            "repo": "erpnextfints",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HDFC Bank Integration",
+          "description": "Unofficial API to handle bank transactions using ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-22T07:20:02Z",
+            "owner": "resilient-tech",
+            "repo": "bank_integration",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Paystack Integration",
+          "description": "Paystack Payment Gateway Integration for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T19:22:23Z",
+            "owner": "mymi14s",
+            "repo": "frappe_paystack",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Razorpay Integration",
+          "description": "Razorpay Integration for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2019-09-25T07:27:39Z",
+            "owner": "frappe",
+            "repo": "razorpay_integration",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WalletE",
+          "description": "Comprehensive electronic wallet solution integrated with ERPNext for customer wallet management, loyalty, and digital payment workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-17T07:50:58Z",
+            "owner": "ruknsoftware",
+            "repo": "WalletE",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SumUp Integration",
+          "description": "This App is an SumUP integration for ERPNext POS. Initiate card payments directly via the POS interface, check status, and post transactions cleanly in ERPNext for fast, reliable checkout.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-14T15:21:30Z",
+            "owner": "Rocket-Quack",
+            "repo": "erpnext_sumup",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Payments"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Ecommerce Integrations",
+          "description": "Ecommerce integrations for ERPNext (Shopify, Unicommerce, Zenoti).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:29:56Z",
+            "owner": "frappe",
+            "repo": "ecommerce_integrations",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shopify Integration",
+          "description": "Shopify Integration for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:29:56Z",
+            "owner": "frappe",
+            "repo": "ecommerce_integrations",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Unicommerce Integration",
+          "description": "Unicommerce Integration for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:29:56Z",
+            "owner": "frappe",
+            "repo": "ecommerce_integrations",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zenoti Integration",
+          "description": "Zenoti Integration for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:29:56Z",
+            "owner": "frappe",
+            "repo": "ecommerce_integrations",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext Shipping",
+          "description": "Shipping Integration for ERPNext with Packlink, LetMeShip & SendCloud.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T17:53:33Z",
+            "owner": "frappe",
+            "repo": "erpnext-shipping",
+            "stars": 143
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WooCommerceConnector",
+          "description": "Integration App for ERPNext to connect to WooCommerce.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-08T12:05:31Z",
+            "owner": "libracore",
+            "repo": "WooCommerceConnector",
+            "stars": 116
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shipstation Integration",
+          "description": "Shipstation Integration for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-28T19:33:27Z",
+            "owner": "ParsimonyGit",
+            "repo": "shipstation_integration",
+            "stars": 15
+          }
+        }
+      ],
+      "title": "eCommerce & Shipping"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "S3 Attachments",
+          "description": "Plug an S3 bucket for storing and fetching files in Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-11T10:44:29Z",
+            "owner": "zerodha",
+            "repo": "frappe-attachments-s3",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DFP External Storage",
+          "description": "S3 compatible external storages per folder management app for Frappe and ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-31T17:47:08Z",
+            "owner": "developmentforpeople",
+            "repo": "dfp_external_storage",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nextcloud Integration",
+          "description": "Nextcloud + Frappe = ❤️",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2022-08-06T21:14:04Z",
+            "owner": "frappe",
+            "repo": "nextcloud-integration",
+            "stars": 58
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pibiapp",
+          "description": "Connect with Nextcloud to store the attachments on your Nextcloud server, integrate with external data from Excel, CSV, JSON or XML files, and view Redash dashboards in Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-31T08:54:16Z",
+            "owner": "doloresjuliana",
+            "repo": "pibiapp",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PibiDAV",
+          "description": "Integrate webDAV, calDAV and cardDAV (Future) with a NextCloud Server, used as (DMS), for a copy of Frappe Files uploaded and tagged to NextCloud while uploading files to Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T08:28:06Z",
+            "owner": "pibico",
+            "repo": "pibiDAV",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Storage Integration",
+          "description": "Storage Integration for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2023-02-15T04:16:47Z",
+            "owner": "frappe",
+            "repo": "storage_integration",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RClone Integration",
+          "description": "Frappe integration with Rclone.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-09T15:25:07Z",
+            "owner": "Muzzy73",
+            "repo": "rclone_integration",
+            "stars": 10
+          }
+        }
+      ],
+      "title": "Storage & File Sync"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DATEV Integration",
+          "description": "Integration between ERPNext and DATEV.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T11:11:30Z",
+            "owner": "alyf-de",
+            "repo": "erpnext_datev",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Metabase Integration",
+          "description": "Access your Metabase instance from Desk.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-11-04T03:39:35Z",
+            "owner": "pipech",
+            "repo": "frappe-metabase",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Meta Integration",
+          "description": "Meta Cloud API Integration for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-01-17T04:53:47Z",
+            "owner": "efeone",
+            "repo": "frappe_meta_integration",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dash Integration",
+          "description": "Build analytical web apps through the Desk with @plotly's Dash.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-02T18:17:02Z",
+            "owner": "pipech",
+            "repo": "frappe-plotly-dash",
+            "stars": 31
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frepple Integration",
+          "description": "Frepple Production Scheduling Tool.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-02-21T13:44:17Z",
+            "owner": "msf4-0",
+            "repo": "ERPNext-Frepple-Integration",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mautic Integration",
+          "description": "Mautic Integration for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-08-30T07:09:28Z",
+            "owner": "dokos-io",
+            "repo": "mautic",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrintNode Integration",
+          "description": "Smart Printing from Frappe using Print Node API.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-07-06T02:38:33Z",
+            "owner": "techmaxsolucoes",
+            "repo": "printnode-integration",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Discourse SSO Integration",
+          "description": "Simple frappe app to setup Single sign-on for Discourse.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-09-22T03:46:19Z",
+            "owner": "shridarpatil",
+            "repo": "frappe_discourse",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Microsoft 365 Groups",
+          "description": "Microsoft 365 Groups Integration for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-11-27T14:57:29Z",
+            "owner": "Aptitudetech",
+            "repo": "frappe-m365",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EWB API Integration",
+          "description": "Implementing E-WayBill API integration for India.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-08-04T06:21:31Z",
+            "owner": "aerele",
+            "repo": "ewb_api_integration",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FC Site Manager",
+          "description": "App for partners managing multiple Frappe Cloud sites — single-click login to client sites without passwords, and periodic rotation/disabling of user accounts across them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T13:55:36Z",
+            "owner": "wahni-green",
+            "repo": "fc_site_manager",
+            "stars": 3
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PostGrid Integration",
+          "description": "Direct Mail Documents within Frappe via PostGrid Print & Mail API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-18T01:24:27Z",
+            "owner": "Avunu",
+            "repo": "postgrid_integration",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Integrations"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Business Theme",
+          "description": "Business Theme for your Frappe v14 Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2024-07-22T15:23:40Z",
+            "owner": "Midocean-Technologies",
+            "repo": "business_theme_v14",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Blue",
+          "description": "Material Blue Theme for your Frappe v12 Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-03-16T08:32:45Z",
+            "owner": "hashirluv",
+            "repo": "bluetheme",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Desk Theme",
+          "description": "Comprehensive theming solution for Frappe/ ERPNext v16 Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-05T05:59:34Z",
+            "owner": "dhwani-ris",
+            "repo": "frappe_desk_theme",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Portal Theme",
+          "description": "Theme your entire Frappe portal — navbar, cards, login page, and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-15T07:55:13Z",
+            "owner": "Sudhanshu-Badole",
+            "repo": "Portal_Theme",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Owl",
+          "description": "@zaqouttahir's Owl theme for your Frappe v15 Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-20T08:23:15Z",
+            "owner": "tahir-3",
+            "repo": "owl_theme",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Red",
+          "description": "@hashirluv's Red theme for your Frappe v13-beta Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-03-02T12:07:23Z",
+            "owner": "hashirluv",
+            "repo": "redtheme_v13b",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Classic White",
+          "description": "Classic White theme for your Frappe v13 Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-08-03T14:25:55Z",
+            "owner": "hashirluv",
+            "repo": "whitetheme-v13",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tekton Theme",
+          "description": "Tekton Theme - Custom App for frappe for addon themes.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "SCSS",
+            "last_commit": "2026-04-16T11:13:53Z",
+            "owner": "vineyrawat",
+            "repo": "Tekton-Theme",
+            "stars": 26
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material Theme",
+          "description": "Frappe theme inspired by Google material design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-04T05:49:51Z",
+            "owner": "itrostack",
+            "repo": "material_theme",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infintrix Theme",
+          "description": "Modern, Fluent UI–inspired theme for Frappe/ERPNext with customizable fonts, colors, font sizes, dark mode, and a polished reusable design system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2025-12-19T21:58:07Z",
+            "owner": "Infintrix-Technologies",
+            "repo": "infintrix_theme",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Material UI",
+          "description": "kims Theme Material UI for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "CSS",
+            "last_commit": "2020-10-18T09:21:25Z",
+            "owner": "michaelkaraz",
+            "repo": "kimstheme",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pink",
+          "description": "@Muhammad-shaalan's Pink theme.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-03T12:07:13Z",
+            "owner": "Muhammad-shaalan",
+            "repo": "pink-theme",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Themes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "India Compliance",
+          "description": "Simple, yet powerful compliance solutions for Indian businesses.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T12:40:44Z",
+            "owner": "resilient-tech",
+            "repo": "india-compliance",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nepal Compliance",
+          "description": "Open source ERP for Nepal with HR, Payroll & Accounting compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-07T11:01:41Z",
+            "owner": "yarsa",
+            "repo": "nepal-compliance",
+            "stars": 173
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext Germany",
+          "description": "Regional code for Germany, built on top of ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T14:25:20Z",
+            "owner": "alyf-de",
+            "repo": "erpnext_germany",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KSA",
+          "description": "Regional Compliance for the Kingdom of Saudi Arabia",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T18:02:25Z",
+            "owner": "lavaloon-eg",
+            "repo": "ksa_compliance",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CSF_TZ",
+          "description": "Regional App for Tanzania.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-12T22:16:24Z",
+            "owner": "aakvatech",
+            "repo": "CSF_TZ",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext France",
+          "description": "Regional code for France, built on top of ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T15:28:54Z",
+            "owner": "scopen-coop",
+            "repo": "erpnext_france",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext Thailand",
+          "description": "Thailand Taxation (VAT, WHT), Thai Billing Process, Get Address from Tax ID, Bank of Thailand Exchange Rate and more... for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T16:13:27Z",
+            "owner": "ecosoft-frappe",
+            "repo": "erpnext_thailand",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kenya Compliance (via Slade)",
+          "description": "This application integrates ERPNext with Kenya Revenue Authority's (KRA) eTIMS through the Virtual Sales Control Unit (VSCU), facilitating seamless tax compliance and data synchronization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T01:42:39Z",
+            "owner": "navariltd",
+            "repo": "kenya-compliance-via-slade",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "GSTR 2B Reconciler",
+          "description": "Reconciliation tool for GSTR 2B and Purchase Register.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-15T10:30:53Z",
+            "owner": "aerele",
+            "repo": "reconciler",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grynn Swiss QR Bill",
+          "description": "Swiss QR Bill Generator app for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-12-31T07:03:11Z",
+            "owner": "Grynn-GmbH",
+            "repo": "Swiss-QR-Bill-ERPNext",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swiss Factur X E Invoicing",
+          "description": "For E-Invoice Hybrid PDF based on Factur-X and ZugFerd (EN 16931 Standards).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-07-16T09:27:26Z",
+            "owner": "Grynn-GmbH",
+            "repo": "Swiss-E-invoicing-ERPNext",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UAE E-Invoicing Integration",
+          "description": "UAE FTA e-invoicing implementation for ERPNext with UBL 2.1 compliant XML generation, VAT validation, and clearance-ready workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-24T08:13:41Z",
+            "owner": "ERPGulf",
+            "repo": "uae_erpgulf",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "South African Localization for ERPNext",
+          "description": "Comprehensive South African localization with statutory compliance, tax regulations, payroll localization, and financial reporting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T13:20:07Z",
+            "owner": "EPIUSECX",
+            "repo": "cohenix_local_za",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pakistan Workspace",
+          "description": "Regional App for Pakistan with NIC, NTN, and STRN numbers, and reports for FBR tax compliance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-19T08:54:31Z",
+            "owner": "ParaLogicTech",
+            "repo": "erpnext_pk",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext TSE",
+          "description": "This app extends ERPNext by connecting cash registers to a TSE and forms the basis for legally compliant cash register transactions in Germany (KassenSichV).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T13:43:04Z",
+            "owner": "Rocket-Quack",
+            "repo": "erpnext_tse",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Italian Electronic Invoicing for ERPNext",
+          "description": "Complete Italian electronic invoicing management for ERPNext. FatturaPA v1.2.1 XML generation, automatic supplier invoice import, compliant VAT records, payment rounding, and pluggable provider architecture for SDI. Zero external dependencies.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-30T11:12:40Z",
+            "owner": "Solede-SA",
+            "repo": "italian_invoice",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Swiss Accounting Integration",
+          "description": "Extend ERPNext with Swiss QR Integration and Abacus Export.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-21T13:36:19Z",
+            "owner": "phamos-eu",
+            "repo": "Swiss-Accounting-Integration",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zambia Revenue Authority Smart Invoice - CA ERPNext",
+          "description": "A Frappe custom application that integrates with the Zambia Revenue Authority (ZRA) Virtual Sales Data Controller (VSDC) API to enable seamless tax compliance, e-invoicing, and reporting directly within your ERP system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-01T10:21:08Z",
+            "owner": "CrystalisedApps",
+            "repo": "ca-erpnext-zra",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Payware",
+          "description": "ERPNext Payroll enhancements specific for functionality required in Tanzania.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-10-30T20:13:14Z",
+            "owner": "aakvatech",
+            "repo": "Payware",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Singapore Compliance",
+          "description": "Open-source app to manage Singapore-specific regulatory compliance. The app creates ledgers and tax templates and comes with GST reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T04:29:57Z",
+            "owner": "kingstechspl",
+            "repo": "Singapore-Compliance",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNext China",
+          "description": "Chinese Chart of Accounts, Tax Templates and Language customizations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-08T10:45:19Z",
+            "owner": "zelin-tech",
+            "repo": "erpnext_china",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Regional Apps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "ERPNext Whitelabel",
+          "description": "White label ERPNext for your own brand from a single setting.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-01T16:24:24Z",
+            "owner": "bhavesh95863",
+            "repo": "whitelabel",
+            "stars": 232
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PDF on Submit",
+          "description": "Automatically generate and attach a PDF when a sales document gets submitted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-30T10:55:42Z",
+            "owner": "alyf-de",
+            "repo": "erpnext_pdf-on-submit",
+            "stars": 112
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IT Management",
+          "description": "Manage your IT landscape from ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-20T08:12:24Z",
+            "owner": "phamos-eu",
+            "repo": "it_management",
+            "stars": 97
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digistore",
+          "description": "Digital Asset Distribution Platform built on Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2022-02-15T14:24:26Z",
+            "owner": "NagariaHussain",
+            "repo": "digistore",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Expense Entry",
+          "description": "Expense Entry for easy capture of non-item expenses without using the Journal Entry.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-23T17:58:40Z",
+            "owner": "the-bantoo",
+            "repo": "expense_request",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Vendor Payments",
+          "description": "A frappe app that has workflows and reports to make payments to vendors by a company and track them.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-25T18:35:58Z",
+            "owner": "zerodha",
+            "repo": "vendor-payments",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Contract Payment",
+          "description": "Link between contract with sales invoice and purchase invoice and make dues.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-03-08T07:39:27Z",
+            "owner": "morghim",
+            "repo": "contract-payment",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Workspace Permissions",
+          "description": "Manage the availability of workspaces within Frappe/ ERPNext (sidebar) based on user-roles.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-07T07:56:08Z",
+            "owner": "pstuhlmueller",
+            "repo": "workspaceperms",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Recod ERPNext Design",
+          "description": "Provides new sample print formats and design for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-16T22:23:53Z",
+            "owner": "Monogramm",
+            "repo": "recod_erpnext_design",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Persona",
+          "description": "Frappe/ERPNext app to allow Administrator/System Managers to impersonate other users.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-08-13T05:31:56Z",
+            "owner": "iptelephony",
+            "repo": "persona",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Double Ledger",
+          "description": "App made on Frappe framework to accommodate parties that act as both customers and suppliers in ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-02-18T09:43:54Z",
+            "owner": "ahmadpak",
+            "repo": "doubleledger",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Robinhood",
+          "description": "System that powers robinhoodarmy.com",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-02T17:42:48Z",
+            "owner": "fossunited",
+            "repo": "robinhood",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Digital Signage",
+          "description": "A lightweight digital signage solution made with Frappe. (Desinged for Single Board Computers (SBC) eg: Raspberry Pi.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-07-06T06:14:09Z",
+            "owner": "one-highflyer",
+            "repo": "frappe-signage-display-app",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stock Reconciliation Per Item Group",
+          "description": "ERPNext Stock reconciliation per item group",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-05-05T08:55:38Z",
+            "owner": "scopen-coop",
+            "repo": "stock_reconcialiation_per_item_group",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Special Item Accountancy Code",
+          "description": "ERPNext Special Item accountancy code according customer settings.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-20T12:57:15Z",
+            "owner": "scopen-coop",
+            "repo": "special_item_accountancy_code",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mail Reminder",
+          "description": "ERPNext automatic mail to Contact for Sales invoices, Purchase Orders , ...",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-06-25T15:13:40Z",
+            "owner": "scopen-coop",
+            "repo": "frappe-mail-reminder",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Church",
+          "description": "A church management app based on the Frappe framework.",
+          "children": []
+        }
+      ],
+      "title": "Other Apps"
+    },
+    {
+      "description": "It is built for teams that already use ERPNext and want a practical assistant inside their existing system, not a separate chat product with a separate permission model.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frappe UI",
+          "description": "A set of components and utilities for rapid UI development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-13T19:07:10Z",
+            "owner": "frappe",
+            "repo": "frappe-ui",
+            "stars": 999
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe-Manager (fm)",
+          "description": "A powerful CLI tool to streamline the development and deployment of Frappe and ERPNext applications using Docker. Features quick environment setup, multi-bench/site management, VSCode integration, and production-ready SSL support—all from the command line.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T20:28:26Z",
+            "owner": "rtCamp",
+            "repo": "Frappe-Manager",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doppio",
+          "description": "Magically setup single page applications on your Frappe Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-07T18:07:52Z",
+            "owner": "NagariaHussain",
+            "repo": "doppio",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nano Press",
+          "description": "Nano Press automates your Frappe/ERPNext deployment from zero to production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "HTML",
+            "last_commit": "2026-02-01T06:00:46Z",
+            "owner": "bwhtech",
+            "repo": "nano_press",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "TypeScript Type generator",
+          "description": "Typescript type definition generator for Frappe DocTypes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-05-13T06:16:55Z",
+            "owner": "frappe",
+            "repo": "frappe-types",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Semgrep Rules",
+          "description": "Semgrep Rules for following the best practices while building your Frappe Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-05T04:11:38Z",
+            "owner": "frappe",
+            "repo": "semgrep-rules",
+            "stars": 66
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Intellisense",
+          "description": "VSCode Extension and Language Server for Frappe Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-04-13T15:17:03Z",
+            "owner": "frappe",
+            "repo": "intellisense",
+            "stars": 61
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrappeAPI",
+          "description": "Provides FastAPI-style API development for Frappe, enabling modern path-based routing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T11:39:11Z",
+            "owner": "0xsirsaif",
+            "repo": "frappeapi",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe GraphQL",
+          "description": "GraphQL API Layer for Frappe Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-07T12:29:04Z",
+            "owner": "leam-tech",
+            "repo": "frappe_graphql",
+            "stars": 53
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Barista",
+          "description": "Automate functional testing of your Frappe Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-09-25T05:45:00Z",
+            "owner": "ElasticRun",
+            "repo": "barista",
+            "stars": 48
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe ER Generator",
+          "description": "Frappe ER Generator is application to generate ERD.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-07-16T22:48:39Z",
+            "owner": "The-Commit-Company",
+            "repo": "frappe_er_generator",
+            "stars": 37
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Deployer",
+          "description": "Streamlined and efficient way to set up development and production environments for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-04T14:41:22Z",
+            "owner": "Henry-Do-Su",
+            "repo": "frappe_deployer",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappeviz",
+          "description": "Visualize class diagrams of a Frappe App's doctypes using PlantUML.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2021-11-02T16:15:18Z",
+            "owner": "yemikudaisi",
+            "repo": "frappeviz",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fsocket",
+          "description": "Extend frappe's websocket server using socket.io and redis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-12-16T14:44:15Z",
+            "owner": "pifabs",
+            "repo": "fsocket",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Console",
+          "description": "Powerful Console for Frappe Backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-05-16T19:15:31Z",
+            "owner": "yrestom",
+            "repo": "Console",
+            "stars": 28
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DocType Model Generator",
+          "description": "Generate models to different languages based on Doctype.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-12-28T06:45:41Z",
+            "owner": "assemmarwan",
+            "repo": "model_generator",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InfraScan",
+          "description": "Infrastructure scanning, vulnerability detection, and security auditing for Frappe deployments.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-04T09:32:50Z",
+            "owner": "SolDevelo",
+            "repo": "InfraScan",
+            "stars": 18
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LazyChat ERPNext",
+          "description": "An open-source AI assistant docked into the ERPNext desk. It's a 101-tool MCP server with bring-your-own LLM — any OpenAI-compatible or Anthropic key, the key stays in your browser. Mutations are Apply-gated; a vision-judge loop drives self-iteration. The Frappe community's first AI-native sidekick.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-02T01:54:01Z",
+            "owner": "soumyasethy",
+            "repo": "lazychat-erpnext",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Chrome Dev Utils",
+          "description": "A simple Browser Extension that help you work & develop in Frappe/ERPNext Framework.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-06-02T09:27:47Z",
+            "owner": "ascorbic-acid",
+            "repo": "frappe_chrome_dev_utils",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frappe_test.vim",
+          "description": "Running Frappe unit tests at speed of thought.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2022-10-26T10:27:37Z",
+            "owner": "ankush",
+            "repo": "frappe_test.vim",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Schema JSON Diff",
+          "description": "CI tool for showing any schema changes between commits.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-06T23:11:53Z",
+            "owner": "robproject",
+            "repo": "fsjd",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lost Doctype",
+          "description": "A Frappe app that maps your site structure and finds DocTypes that are not accessible through the UI.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-02T20:23:16Z",
+            "owner": "rareMaxim",
+            "repo": "lost_doctype",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Diff Custom",
+          "description": "Easy way to compare Custom Fields and Property Setters between the git version of an App.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-12-05T09:42:13Z",
+            "owner": "scopen-coop",
+            "repo": "scopen-frappe-diff",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Developer Tooling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frappe React SDK SDK",
+          "description": "React hooks for Frappe",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T12:24:47Z",
+            "owner": "frappe",
+            "repo": "frappe-react-sdk",
+            "stars": 186
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe JS SDK",
+          "description": "TypeScript/JavaScript library for Frappe REST API",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-07-24T12:20:11Z",
+            "owner": "frappe",
+            "repo": "frappe-js-sdk",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrappeAPI",
+          "description": "Provides FastAPI-style API development for Frappe, enabling modern path-based routing and leveraging FastAPI's familiar interface and semantics for a streamlined development experience.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-27T11:39:11Z",
+            "owner": "0xsirsaif",
+            "repo": "frappeapi",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrappeClient.py",
+          "description": "@zerodha's Python client for making requests to your Frappe Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-05-27T05:28:16Z",
+            "owner": "zerodha",
+            "repo": "py-frappe-client",
+            "stars": 33
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Straw",
+          "description": "Developer focused React/TypeScript hooks and utilities for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-06-19T15:15:05Z",
+            "owner": "ssiyad",
+            "repo": "frappe-straw",
+            "stars": 23
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Renovation",
+          "description": "Renovation is a Frappe Front End TS/JS SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-10-12T19:24:22Z",
+            "owner": "leam-tech",
+            "repo": "renovation_core",
+            "stars": 22
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "renovation_core.dart",
+          "description": "The Frappe Dart/Flutter Front End SDK.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Dart",
+            "last_commit": "2023-08-12T13:10:55Z",
+            "owner": "leam-tech",
+            "repo": "renovation_core.dart",
+            "stars": 17
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrappeRestClient.Net",
+          "description": "Frappe Framework REST client for .Net",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2021-11-13T14:19:04Z",
+            "owner": "yemikudaisi",
+            "repo": "FrappeRestClient.Net",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe-Request.js",
+          "description": "A Frappe-Client made with JavaScript and Needle.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2018-10-31T03:01:13Z",
+            "owner": "bailabs",
+            "repo": "frappe-request",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FrappeClient.php",
+          "description": "a PHP client for making requests to your Frappe Server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2020-04-13T11:19:51Z",
+            "owner": "hizbul25",
+            "repo": "frappe-client",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "SDKs & Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Doppio Bot",
+          "description": "AI ChatBot Template, built into Frappe's Desk Interface.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2023-06-21T07:42:58Z",
+            "owner": "NagariaHussain",
+            "repo": "doppio_bot",
+            "stars": 75
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Doppio FrappeUI Starter",
+          "description": "A Vite + Vue 3 + TailwindCSS + Frappe UI starter template for building frontends for Frappe Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-12-24T11:51:22Z",
+            "owner": "NagariaHussain",
+            "repo": "doppio_frappeui_starter",
+            "stars": 39
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "App Template",
+          "description": "@Monogramm's supercharged GitHub template for building ERPNext/Frappe Apps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-02-14T13:41:39Z",
+            "owner": "Monogramm",
+            "repo": "erpnext_template",
+            "stars": 22
+          }
+        }
+      ],
+      "title": "Templates"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frappe Assistant Core",
+          "description": "Infrastructure that connects LLMs to ERPNext with Model Context Protocol (MCP).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T06:42:39Z",
+            "owner": "buildswithpaul",
+            "repo": "Frappe_Assistant_Core",
+            "stars": 283
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe MCP",
+          "description": "Allows Frappe apps to function as MCP servers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-29T08:46:55Z",
+            "owner": "frappe",
+            "repo": "mcp",
+            "stars": 156
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "HUF AI",
+          "description": "Open-source AI infrastructure for any app. Build multi-agent solutions, automate AI driven deterministic workflows, and keep your data under your control.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T16:13:57Z",
+            "owner": "tridz-dev",
+            "repo": "huf",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Skills",
+          "description": "A collection of agent skills for building Frappe Framework applications, plus general code-style and UI design skills.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-08-12T06:37:15Z",
+            "owner": "frappe",
+            "repo": "skills",
+            "stars": 96
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MCP ERPNext",
+          "description": "MCP server for ERPNext with 97 tools across 11 categories and 7 interactive UI viewers. Zero-config setup via npx.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-08T05:05:50Z",
+            "owner": "Casys-AI",
+            "repo": "mcp-erpnext",
+            "stars": 73
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe MCP Server",
+          "description": "A server that implements the Anthropic Model Control Protocol (MCP) to enable controlled access to Frappe sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-09-16T00:44:20Z",
+            "owner": "appliedrelevance",
+            "repo": "frappe-mcp-server",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "forge-frappe-skill",
+          "description": "MIT library of 480+ curated Frappe agent-skills (DocTypes, hooks, Query Builder, permissions, REST/RPC APIs, reports, testing, ops) for AI coding agents — works via any MCP host or standalone markdown. Aggregates and credits public OSS skill sources.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-07T10:35:33Z",
+            "owner": "sbknext",
+            "repo": "forge-frappe-skill",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pacioli",
+          "description": "Governance layer that makes it safe to let AI agents or any automation touch your ERPNext books. Scoped deny-biased tokens, plan-prove-record workflow, immutable audit trail. Works over MCP, A2A and REST",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T02:43:28Z",
+            "owner": "john-broadway",
+            "repo": "pacioli",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "AI & MCP Tooling"
+    },
+    {
+      "description": "Tools that bridge Frappe with physical hardware or IoT devices",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Biometric Attendance Sync Tool",
+          "description": "Python Scripts to poll your biometric attendance system (BAS) for logs and sync with your ERPNext instance.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-05-23T09:43:58Z",
+            "owner": "frappe",
+            "repo": "biometric-attendance-sync-tool",
+            "stars": 276
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smart Weighing Scale & Inventory",
+          "description": "A wireless & portable smart weighing scale embedded system that interfaces with Node-Red for IoT connectivity and ERPNext for inventory & stock tracking.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2022-07-28T07:58:16Z",
+            "owner": "msf4-0",
+            "repo": "SWSI",
+            "stars": 13
+          }
+        }
+      ],
+      "title": "Hardware & IoT"
+    },
+    {
+      "description": "Resources allowing you to deploy Frappe apps with your favourite toolset",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Frappe Docker",
+          "description": "Official docker images for Frappe.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T08:17:06Z",
+            "owner": "frappe",
+            "repo": "frappe_docker",
+            "stars": 2509
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappe Operator",
+          "description": "Kubernetes operator for automated deployment and management of Frappe/ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-13T04:41:04Z",
+            "owner": "vyogotech",
+            "repo": "frappe-operator",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERPNextFailOver",
+          "description": "Tool to automate setting up Database Replication for ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2023-04-28T21:14:00Z",
+            "owner": "martinhbramwell",
+            "repo": "ERPNextFailOver",
+            "stars": 34
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Benchless",
+          "description": "CLI tool to manage Frappe deployments without bench.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-06-14T01:20:16Z",
+            "owner": "castlecraft",
+            "repo": "benchless",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Frappista",
+          "description": "Pre-baked Frappe/ERPNext images designed for quick trials and simplified development workloads. High-performance, bootable containers that include a pre-configured site for immediate use.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-08-12T05:14:04Z",
+            "owner": "vyogotech",
+            "repo": "frappista",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Curated ReadyMade Docker Image with Apps",
+          "description": "Pre-built Docker image with curated ERPNext apps, daily automatic rebuilds, and optional ARM support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-07-16T17:45:30Z",
+            "owner": "geniusdynamics",
+            "repo": "erp-next-docker",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Deployment Tools"
+    },
+    {
+      "description": "Clients built for the Frappe Framework, other than the standard browser view Desk",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Mobile",
+          "description": "Mobile App for Frappe built on Dart. [Version 13+]",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Dart",
+            "last_commit": "2022-01-11T06:53:19Z",
+            "owner": "frappe",
+            "repo": "mobile",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AdminLTE",
+          "description": "Vue-based AdminLTE dashboard for Frappe and ERPNext.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2022-04-14T06:54:24Z",
+            "owner": "mymi14s",
+            "repo": "frappevue_adminlte",
+            "stars": 64
+          }
+        }
+      ],
+      "title": "Other Clients"
+    },
+    {
+      "description": "Hosted services that run Frappe for you, or self-hostable platforms you can run yourself",
+      "items": [],
+      "title": "Hosting"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Press",
+          "description": "Full service cloud hosting for the Frappe stack - powers Frappe Cloud",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-13T14:15:12Z",
+            "owner": "frappe",
+            "repo": "press",
+            "stars": 551
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nethserver",
+          "description": "@geniusdynamics's configuration for NS8 with backup/restore, server to server node migration, Ldap & Active directory integration and more. [read more here]",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vue",
+            "last_commit": "2026-06-07T09:06:05Z",
+            "owner": "geniusdynamics",
+            "repo": "ns8-erpnext",
+            "stars": 7
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BenchPress",
+          "description": "Self-hosted Frappe Cloud alternative with Docker-based bench environments, WireGuard VPN, live build logs, and a Vue 3 dashboard.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T12:19:46Z",
+            "owner": "Venkateshvenki404224",
+            "repo": "benchpress_devops",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Self-hosted Platforms"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T21:30:44.292Z",
+    "original_repository": "gavindsouza/awesome-frappe",
+    "original_repository_sha": "1b039212abeacbb8c05474119f7fec72e385eb2e",
+    "enhanced_repository": "enhansome/enhansome-frappe",
+    "enhanced_repository_description": null,
+    "title": "Awesome Frappe with stars"
+  }
+}
