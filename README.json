@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 668199241,
                     "language": "Vue",
-                    "last_commit": "2026-08-19T16:31:56Z",
+                    "last_commit": "2026-08-21T16:53:37Z",
                     "owner": "frappe",
                     "repo": "crm",
-                    "stars": 3360
+                    "stars": 3365
                   }
                 },
                 {
@@ -31,10 +31,10 @@
                     "archived": false,
                     "id": 338984146,
                     "language": "Vue",
-                    "last_commit": "2026-08-20T09:20:32Z",
+                    "last_commit": "2026-08-21T16:23:03Z",
                     "owner": "frappe",
                     "repo": "lms",
-                    "stars": 3150
+                    "stars": 3154
                   }
                 },
                 {
@@ -49,7 +49,7 @@
                     "last_commit": "2026-08-18T14:21:02Z",
                     "owner": "frappe",
                     "repo": "insights",
-                    "stars": 1005
+                    "stars": 1006
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2026-08-14T08:18:11Z",
                     "owner": "frappe",
                     "repo": "education",
-                    "stars": 603
+                    "stars": 606
                   }
                 },
                 {
@@ -76,7 +76,7 @@
                     "archived": false,
                     "id": 399456228,
                     "language": "Python",
-                    "last_commit": "2026-08-18T05:44:29Z",
+                    "last_commit": "2026-08-21T06:15:36Z",
                     "owner": "earthians",
                     "repo": "marley",
                     "stars": 524
@@ -106,7 +106,7 @@
                     "archived": false,
                     "id": 702319868,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T18:14:19Z",
+                    "last_commit": "2026-08-21T10:41:26Z",
                     "owner": "ury-erp",
                     "repo": "ury",
                     "stars": 336
@@ -121,7 +121,7 @@
                     "archived": false,
                     "id": 647683397,
                     "language": "Python",
-                    "last_commit": "2026-08-20T09:34:24Z",
+                    "last_commit": "2026-08-21T16:28:25Z",
                     "owner": "frappe",
                     "repo": "lending",
                     "stars": 332
@@ -518,10 +518,10 @@
                     "archived": false,
                     "id": 929737256,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T06:22:53Z",
+                    "last_commit": "2026-08-21T07:07:38Z",
                     "owner": "defendicon",
                     "repo": "POS-Awesome-V15",
-                    "stars": 111
+                    "stars": 112
                   }
                 },
                 {
@@ -551,7 +551,7 @@
                     "last_commit": "2026-08-20T13:50:53Z",
                     "owner": "kodlyft",
                     "repo": "xpos",
-                    "stars": 31
+                    "stars": 32
                   }
                 },
                 {
@@ -585,10 +585,10 @@
                     "archived": false,
                     "id": 599901267,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T09:43:16Z",
-                    "owner": "The-Commit-Company",
+                    "last_commit": "2026-08-21T02:49:32Z",
+                    "owner": "frappe",
                     "repo": "raven",
-                    "stars": 752
+                    "stars": 753
                   }
                 },
                 {
@@ -813,7 +813,7 @@
                     "last_commit": "2026-08-05T10:36:56Z",
                     "owner": "muneeb141",
                     "repo": "ghost",
-                    "stars": 25
+                    "stars": 26
                   }
                 },
                 {
@@ -1775,7 +1775,7 @@
                     "archived": false,
                     "id": 310253085,
                     "language": "Python",
-                    "last_commit": "2026-08-13T22:08:54Z",
+                    "last_commit": "2026-08-21T15:12:51Z",
                     "owner": "frappe",
                     "repo": "erpnext-shipping",
                     "stars": 144
@@ -2104,7 +2104,7 @@
                     "archived": false,
                     "id": 816880761,
                     "language": "Python",
-                    "last_commit": "2026-08-20T21:02:35Z",
+                    "last_commit": "2026-08-20T21:23:56Z",
                     "owner": "Avunu",
                     "repo": "postgrid_integration",
                     "stars": 3
@@ -2346,7 +2346,7 @@
                     "last_commit": "2026-07-29T14:25:20Z",
                     "owner": "alyf-de",
                     "repo": "erpnext_germany",
-                    "stars": 87
+                    "stars": 88
                   }
                 },
                 {
@@ -2890,7 +2890,7 @@
                 "last_commit": "2026-08-20T19:31:29Z",
                 "owner": "frappe",
                 "repo": "frappe-ui",
-                "stars": 1003
+                "stars": 1004
               }
             },
             {
@@ -2902,10 +2902,10 @@
                 "archived": false,
                 "id": 664842578,
                 "language": "Python",
-                "last_commit": "2026-08-17T01:14:05Z",
+                "last_commit": "2026-08-21T01:14:07Z",
                 "owner": "rtCamp",
                 "repo": "Frappe-Manager",
-                "stars": 409
+                "stars": 410
               }
             },
             {
@@ -3190,7 +3190,7 @@
                 "last_commit": "2026-05-06T23:11:53Z",
                 "owner": "robproject",
                 "repo": "fsjd",
-                "stars": 11
+                "stars": 12
               }
             },
             {
@@ -3472,11 +3472,11 @@
                   "repo_info": {
                     "archived": false,
                     "id": 1035961723,
-                    "language": "Python",
-                    "last_commit": "2026-08-20T15:52:24Z",
+                    "language": "TypeScript",
+                    "last_commit": "2026-08-21T14:29:27Z",
                     "owner": "tridz-dev",
                     "repo": "huf",
-                    "stars": 104
+                    "stars": 106
                   }
                 },
                 {
@@ -3578,7 +3578,7 @@
                 "last_commit": "2025-05-23T09:43:58Z",
                 "owner": "frappe",
                 "repo": "biometric-attendance-sync-tool",
-                "stars": 279
+                "stars": 280
               }
             },
             {
@@ -3612,7 +3612,7 @@
                 "archived": false,
                 "id": 99224194,
                 "language": "Python",
-                "last_commit": "2026-08-20T12:08:43Z",
+                "last_commit": "2026-08-21T07:34:22Z",
                 "owner": "frappe",
                 "repo": "frappe_docker",
                 "stars": 2526
@@ -3748,7 +3748,7 @@
                     "archived": false,
                     "id": 226800899,
                     "language": "Python",
-                    "last_commit": "2026-08-20T08:08:38Z",
+                    "last_commit": "2026-08-21T16:20:21Z",
                     "owner": "frappe",
                     "repo": "press",
                     "stars": 556
@@ -3784,7 +3784,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T21:13:23.615Z",
+    "last_updated": "2026-08-21T21:09:39.284Z",
     "original_repository": "gavindsouza/awesome-frappe",
     "original_repository_id": 413699196,
     "original_repository_sha": "1b039212abeacbb8c05474119f7fec72e385eb2e",
