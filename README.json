@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-21T16:53:37Z",
                     "owner": "frappe",
                     "repo": "crm",
-                    "stars": 3365
+                    "stars": 3372
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-21T16:23:03Z",
                     "owner": "frappe",
                     "repo": "lms",
-                    "stars": 3154
+                    "stars": 3157
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2026-08-14T08:18:11Z",
                     "owner": "frappe",
                     "repo": "education",
-                    "stars": 606
+                    "stars": 607
                   }
                 },
                 {
@@ -109,7 +109,7 @@
                     "last_commit": "2026-08-21T10:41:26Z",
                     "owner": "ury-erp",
                     "repo": "ury",
-                    "stars": 336
+                    "stars": 337
                   }
                 },
                 {
@@ -154,7 +154,7 @@
                     "last_commit": "2026-06-25T14:44:24Z",
                     "owner": "frappe",
                     "repo": "webshop",
-                    "stars": 197
+                    "stars": 198
                   }
                 },
                 {
@@ -518,7 +518,7 @@
                     "archived": false,
                     "id": 929737256,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T07:07:38Z",
+                    "last_commit": "2026-08-22T06:56:00Z",
                     "owner": "defendicon",
                     "repo": "POS-Awesome-V15",
                     "stars": 112
@@ -585,10 +585,10 @@
                     "archived": false,
                     "id": 599901267,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T02:49:32Z",
+                    "last_commit": "2026-08-22T09:53:20Z",
                     "owner": "frappe",
                     "repo": "raven",
-                    "stars": 753
+                    "stars": 755
                   }
                 },
                 {
@@ -618,7 +618,7 @@
                     "last_commit": "2026-08-14T07:13:11Z",
                     "owner": "frappe",
                     "repo": "wiki",
-                    "stars": 428
+                    "stars": 429
                   }
                 },
                 {
@@ -705,7 +705,7 @@
                     "archived": false,
                     "id": 541456201,
                     "language": "JavaScript",
-                    "last_commit": "2026-08-12T10:46:45Z",
+                    "last_commit": "2026-08-22T07:14:51Z",
                     "owner": "TridotsTech",
                     "repo": "go1cms",
                     "stars": 61
@@ -1479,7 +1479,7 @@
                     "last_commit": "2026-08-04T12:27:02Z",
                     "owner": "shridarpatil",
                     "repo": "frappe_whatsapp",
-                    "stars": 464
+                    "stars": 465
                   }
                 },
                 {
@@ -1682,6 +1682,21 @@
                     "owner": "ruknsoftware",
                     "repo": "WalletE",
                     "stars": 9
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Paymob Integration",
+                  "description": "Lets customers pay ERPNext invoices via Paymob (card/wallet). Webhook-verified payments auto-create Payment Entries and reconcile Payment Requests — no manual marking-as-paid.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1312240913,
+                    "language": "Python",
+                    "last_commit": "2026-08-12T09:05:44Z",
+                    "owner": "NotAbdelrahmanelsayed",
+                    "repo": "paymob_integration",
+                    "stars": 7
                   }
                 },
                 {
@@ -2264,7 +2279,7 @@
                     "last_commit": "2025-12-19T21:58:07Z",
                     "owner": "Infintrix-Technologies",
                     "repo": "infintrix_theme",
-                    "stars": 17
+                    "stars": 18
                   }
                 },
                 {
@@ -2346,7 +2361,7 @@
                     "last_commit": "2026-07-29T14:25:20Z",
                     "owner": "alyf-de",
                     "repo": "erpnext_germany",
-                    "stars": 88
+                    "stars": 89
                   }
                 },
                 {
@@ -2890,7 +2905,7 @@
                 "last_commit": "2026-08-20T19:31:29Z",
                 "owner": "frappe",
                 "repo": "frappe-ui",
-                "stars": 1004
+                "stars": 1005
               }
             },
             {
@@ -3224,6 +3239,21 @@
               }
             },
             {
+              "node_type": "item",
+              "title": "Tally Prime ERPNext Migrator",
+              "description": "An auditable migration tool for moving accounting masters and vouchers from Tally Prime into ERPNext through Tally's local XML gateway and the ERPNext REST API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1322666721,
+                "language": "Python",
+                "last_commit": "2026-08-22T09:04:24Z",
+                "owner": "manikantadm09",
+                "repo": "tally-prime-erpnext-migrator",
+                "stars": 0
+              }
+            },
+            {
               "children": [
                 {
                   "node_type": "item",
@@ -3473,7 +3503,7 @@
                     "archived": false,
                     "id": 1035961723,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-21T14:29:27Z",
+                    "last_commit": "2026-08-22T20:27:33Z",
                     "owner": "tridz-dev",
                     "repo": "huf",
                     "stars": 106
@@ -3491,7 +3521,7 @@
                     "last_commit": "2026-08-12T06:37:15Z",
                     "owner": "frappe",
                     "repo": "skills",
-                    "stars": 102
+                    "stars": 103
                   }
                 },
                 {
@@ -3503,7 +3533,7 @@
                     "archived": false,
                     "id": 1160526528,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-20T16:45:11Z",
+                    "last_commit": "2026-08-22T07:30:28Z",
                     "owner": "Casys-AI",
                     "repo": "mcp-erpnext",
                     "stars": 80
@@ -3548,7 +3578,7 @@
                     "archived": false,
                     "id": 1304227251,
                     "language": "Python",
-                    "last_commit": "2026-08-17T01:39:12Z",
+                    "last_commit": "2026-08-22T20:46:28Z",
                     "owner": "john-broadway",
                     "repo": "pacioli",
                     "stars": 4
@@ -3578,7 +3608,7 @@
                 "last_commit": "2025-05-23T09:43:58Z",
                 "owner": "frappe",
                 "repo": "biometric-attendance-sync-tool",
-                "stars": 280
+                "stars": 281
               }
             },
             {
@@ -3615,7 +3645,7 @@
                 "last_commit": "2026-08-21T07:34:22Z",
                 "owner": "frappe",
                 "repo": "frappe_docker",
-                "stars": 2526
+                "stars": 2528
               }
             },
             {
@@ -3748,7 +3778,7 @@
                     "archived": false,
                     "id": 226800899,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:20:21Z",
+                    "last_commit": "2026-08-22T17:08:07Z",
                     "owner": "frappe",
                     "repo": "press",
                     "stars": 556
@@ -3784,10 +3814,10 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T21:09:39.284Z",
+    "last_updated": "2026-08-22T21:03:06.900Z",
     "original_repository": "gavindsouza/awesome-frappe",
     "original_repository_id": 413699196,
-    "original_repository_sha": "1b039212abeacbb8c05474119f7fec72e385eb2e",
+    "original_repository_sha": "df50066a20de710eacba5a66f37df88e8f312999",
     "enhanced_repository": "enhansome/enhansome-frappe",
     "enhanced_repository_description": null,
     "title": "Awesome Frappe with stars"
