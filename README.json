@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 668199241,
                     "language": "Vue",
-                    "last_commit": "2026-08-21T16:53:37Z",
+                    "last_commit": "2026-08-23T17:21:19Z",
                     "owner": "frappe",
                     "repo": "crm",
-                    "stars": 3372
+                    "stars": 3376
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-21T16:23:03Z",
                     "owner": "frappe",
                     "repo": "lms",
-                    "stars": 3157
+                    "stars": 3160
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2026-08-14T08:18:11Z",
                     "owner": "frappe",
                     "repo": "education",
-                    "stars": 607
+                    "stars": 608
                   }
                 },
                 {
@@ -76,7 +76,7 @@
                     "archived": false,
                     "id": 399456228,
                     "language": "Python",
-                    "last_commit": "2026-08-21T06:15:36Z",
+                    "last_commit": "2026-08-23T15:37:30Z",
                     "owner": "earthians",
                     "repo": "marley",
                     "stars": 524
@@ -109,7 +109,7 @@
                     "last_commit": "2026-08-21T10:41:26Z",
                     "owner": "ury-erp",
                     "repo": "ury",
-                    "stars": 337
+                    "stars": 338
                   }
                 },
                 {
@@ -121,7 +121,7 @@
                     "archived": false,
                     "id": 647683397,
                     "language": "Python",
-                    "last_commit": "2026-08-21T16:28:25Z",
+                    "last_commit": "2026-08-23T13:10:37Z",
                     "owner": "frappe",
                     "repo": "lending",
                     "stars": 332
@@ -226,7 +226,7 @@
                     "archived": false,
                     "id": 573426260,
                     "language": "Python",
-                    "last_commit": "2026-08-16T00:12:35Z",
+                    "last_commit": "2026-08-23T16:18:46Z",
                     "owner": "alyf-de",
                     "repo": "banking",
                     "stars": 110
@@ -503,7 +503,7 @@
                     "archived": false,
                     "id": 1068597577,
                     "language": "Vue",
-                    "last_commit": "2026-08-18T14:55:31Z",
+                    "last_commit": "2026-08-23T11:53:44Z",
                     "owner": "BrainWise-DEV",
                     "repo": "POSNext",
                     "stars": 147
@@ -548,10 +548,10 @@
                     "archived": false,
                     "id": 1167940692,
                     "language": "Python",
-                    "last_commit": "2026-08-20T13:50:53Z",
+                    "last_commit": "2026-08-23T11:37:18Z",
                     "owner": "kodlyft",
                     "repo": "xpos",
-                    "stars": 32
+                    "stars": 33
                   }
                 },
                 {
@@ -588,7 +588,7 @@
                     "last_commit": "2026-08-22T09:53:20Z",
                     "owner": "frappe",
                     "repo": "raven",
-                    "stars": 755
+                    "stars": 757
                   }
                 },
                 {
@@ -690,7 +690,7 @@
                     "archived": false,
                     "id": 401418674,
                     "language": "Python",
-                    "last_commit": "2026-07-11T03:57:53Z",
+                    "last_commit": "2026-08-23T01:54:23Z",
                     "owner": "Datahenge",
                     "repo": "btu",
                     "stars": 66
@@ -1479,7 +1479,7 @@
                     "last_commit": "2026-08-04T12:27:02Z",
                     "owner": "shridarpatil",
                     "repo": "frappe_whatsapp",
-                    "stars": 465
+                    "stars": 466
                   }
                 },
                 {
@@ -1491,7 +1491,7 @@
                     "archived": false,
                     "id": 226947005,
                     "language": "Python",
-                    "last_commit": "2024-05-25T12:12:22Z",
+                    "last_commit": "2026-08-23T07:48:55Z",
                     "owner": "yrestom",
                     "repo": "erpnext_telegram",
                     "stars": 148
@@ -1733,7 +1733,7 @@
                     "last_commit": "2026-08-19T10:11:58Z",
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
-                    "stars": 199
+                    "stars": 200
                   }
                 },
                 {
@@ -1748,7 +1748,7 @@
                     "last_commit": "2026-08-19T10:11:58Z",
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
-                    "stars": 199
+                    "stars": 200
                   }
                 },
                 {
@@ -1763,7 +1763,7 @@
                     "last_commit": "2026-08-19T10:11:58Z",
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
-                    "stars": 199
+                    "stars": 200
                   }
                 },
                 {
@@ -1778,7 +1778,7 @@
                     "last_commit": "2026-08-19T10:11:58Z",
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
-                    "stars": 199
+                    "stars": 200
                   }
                 },
                 {
@@ -1820,7 +1820,7 @@
                     "archived": false,
                     "id": 321971659,
                     "language": "Python",
-                    "last_commit": "2026-07-28T19:33:27Z",
+                    "last_commit": "2026-08-23T18:59:33Z",
                     "owner": "ParsimonyGit",
                     "repo": "shipstation_integration",
                     "stars": 15
@@ -2902,10 +2902,10 @@
                 "archived": false,
                 "id": 448930945,
                 "language": "TypeScript",
-                "last_commit": "2026-08-20T19:31:29Z",
+                "last_commit": "2026-08-22T21:37:22Z",
                 "owner": "frappe",
                 "repo": "frappe-ui",
-                "stars": 1005
+                "stars": 1004
               }
             },
             {
@@ -2920,7 +2920,7 @@
                 "last_commit": "2026-08-21T01:14:07Z",
                 "owner": "rtCamp",
                 "repo": "Frappe-Manager",
-                "stars": 410
+                "stars": 412
               }
             },
             {
@@ -3210,6 +3210,21 @@
             },
             {
               "node_type": "item",
+              "title": "Tally Prime ERPNext Migrator",
+              "description": "An auditable migration tool for moving accounting masters and vouchers from Tally Prime into ERPNext through Tally's local XML gateway and the ERPNext REST API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1322666721,
+                "language": "Python",
+                "last_commit": "2026-08-23T17:22:04Z",
+                "owner": "manikantadm09",
+                "repo": "tally-prime-erpnext-migrator",
+                "stars": 3
+              }
+            },
+            {
+              "node_type": "item",
               "title": "Lost Doctype",
               "description": "A Frappe app that maps your site structure and finds DocTypes that are not accessible through the UI.",
               "children": [],
@@ -3236,21 +3251,6 @@
                 "owner": "scopen-coop",
                 "repo": "scopen-frappe-diff",
                 "stars": 1
-              }
-            },
-            {
-              "node_type": "item",
-              "title": "Tally Prime ERPNext Migrator",
-              "description": "An auditable migration tool for moving accounting masters and vouchers from Tally Prime into ERPNext through Tally's local XML gateway and the ERPNext REST API",
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "id": 1322666721,
-                "language": "Python",
-                "last_commit": "2026-08-22T09:04:24Z",
-                "owner": "manikantadm09",
-                "repo": "tally-prime-erpnext-migrator",
-                "stars": 0
               }
             },
             {
@@ -3282,7 +3282,7 @@
                     "last_commit": "2026-07-24T12:20:11Z",
                     "owner": "frappe",
                     "repo": "frappe-js-sdk",
-                    "stars": 164
+                    "stars": 165
                   }
                 },
                 {
@@ -3503,7 +3503,7 @@
                     "archived": false,
                     "id": 1035961723,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-22T20:27:33Z",
+                    "last_commit": "2026-08-23T20:16:25Z",
                     "owner": "tridz-dev",
                     "repo": "huf",
                     "stars": 106
@@ -3521,7 +3521,7 @@
                     "last_commit": "2026-08-12T06:37:15Z",
                     "owner": "frappe",
                     "repo": "skills",
-                    "stars": 103
+                    "stars": 104
                   }
                 },
                 {
@@ -3645,7 +3645,7 @@
                 "last_commit": "2026-08-21T07:34:22Z",
                 "owner": "frappe",
                 "repo": "frappe_docker",
-                "stars": 2528
+                "stars": 2529
               }
             },
             {
@@ -3781,7 +3781,7 @@
                     "last_commit": "2026-08-22T17:08:07Z",
                     "owner": "frappe",
                     "repo": "press",
-                    "stars": 556
+                    "stars": 558
                   }
                 },
                 {
@@ -3814,7 +3814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T21:03:06.900Z",
+    "last_updated": "2026-08-23T21:02:36.667Z",
     "original_repository": "gavindsouza/awesome-frappe",
     "original_repository_id": 413699196,
     "original_repository_sha": "df50066a20de710eacba5a66f37df88e8f312999",
