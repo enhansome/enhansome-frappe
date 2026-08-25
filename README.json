@@ -19,7 +19,7 @@
                     "last_commit": "2026-08-24T08:58:57Z",
                     "owner": "frappe",
                     "repo": "crm",
-                    "stars": 3379
+                    "stars": 3382
                   }
                 },
                 {
@@ -64,7 +64,7 @@
                     "last_commit": "2026-08-14T08:18:11Z",
                     "owner": "frappe",
                     "repo": "education",
-                    "stars": 608
+                    "stars": 609
                   }
                 },
                 {
@@ -76,7 +76,7 @@
                     "archived": false,
                     "id": 399456228,
                     "language": "Python",
-                    "last_commit": "2026-08-23T15:37:30Z",
+                    "last_commit": "2026-08-24T23:54:11Z",
                     "owner": "earthians",
                     "repo": "marley",
                     "stars": 524
@@ -109,7 +109,7 @@
                     "last_commit": "2026-08-24T12:57:47Z",
                     "owner": "ury-erp",
                     "repo": "ury",
-                    "stars": 340
+                    "stars": 342
                   }
                 },
                 {
@@ -121,7 +121,7 @@
                     "archived": false,
                     "id": 647683397,
                     "language": "Python",
-                    "last_commit": "2026-08-24T13:13:53Z",
+                    "last_commit": "2026-08-25T05:23:13Z",
                     "owner": "frappe",
                     "repo": "lending",
                     "stars": 332
@@ -690,7 +690,7 @@
                     "archived": false,
                     "id": 401418674,
                     "language": "Python",
-                    "last_commit": "2026-08-23T01:54:23Z",
+                    "last_commit": "2026-08-24T23:38:04Z",
                     "owner": "Datahenge",
                     "repo": "btu",
                     "stars": 66
@@ -2328,7 +2328,7 @@
                     "archived": false,
                     "id": 442197315,
                     "language": "Python",
-                    "last_commit": "2026-08-24T12:31:06Z",
+                    "last_commit": "2026-08-25T05:58:47Z",
                     "owner": "resilient-tech",
                     "repo": "india-compliance",
                     "stars": 264
@@ -2905,7 +2905,7 @@
                 "last_commit": "2026-08-24T08:36:51Z",
                 "owner": "frappe",
                 "repo": "frappe-ui",
-                "stars": 1004
+                "stars": 1005
               }
             },
             {
@@ -3476,7 +3476,7 @@
                     "last_commit": "2026-08-24T06:32:13Z",
                     "owner": "buildswithpaul",
                     "repo": "Frappe_Assistant_Core",
-                    "stars": 289
+                    "stars": 290
                   }
                 },
                 {
@@ -3506,7 +3506,7 @@
                     "last_commit": "2026-08-12T06:37:15Z",
                     "owner": "frappe",
                     "repo": "skills",
-                    "stars": 107
+                    "stars": 108
                   }
                 },
                 {
@@ -3518,7 +3518,7 @@
                     "archived": false,
                     "id": 1035961723,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T20:50:24Z",
+                    "last_commit": "2026-08-25T04:40:53Z",
                     "owner": "tridz-dev",
                     "repo": "huf",
                     "stars": 106
@@ -3533,7 +3533,7 @@
                     "archived": false,
                     "id": 1160526528,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T16:32:47Z",
+                    "last_commit": "2026-08-25T04:48:13Z",
                     "owner": "Casys-AI",
                     "repo": "mcp-erpnext",
                     "stars": 82
@@ -3645,7 +3645,7 @@
                 "last_commit": "2026-08-21T07:34:22Z",
                 "owner": "frappe",
                 "repo": "frappe_docker",
-                "stars": 2532
+                "stars": 2531
               }
             },
             {
@@ -3657,10 +3657,10 @@
                 "archived": false,
                 "id": 616296063,
                 "language": "Go",
-                "last_commit": "2026-08-18T21:49:54Z",
+                "last_commit": "2026-08-25T04:07:59Z",
                 "owner": "vyogotech",
                 "repo": "frappe-operator",
-                "stars": 46
+                "stars": 47
               }
             },
             {
@@ -3778,7 +3778,7 @@
                     "archived": false,
                     "id": 226800899,
                     "language": "Python",
-                    "last_commit": "2026-08-24T15:14:32Z",
+                    "last_commit": "2026-08-24T22:55:35Z",
                     "owner": "frappe",
                     "repo": "press",
                     "stars": 560
@@ -3814,7 +3814,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T21:14:34.441Z",
+    "last_updated": "2026-08-25T06:11:43.810Z",
     "original_repository": "gavindsouza/awesome-frappe",
     "original_repository_id": 413699196,
     "original_repository_sha": "df50066a20de710eacba5a66f37df88e8f312999",
