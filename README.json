@@ -19,8 +19,9 @@
                     "last_commit": "2026-08-27T11:29:02Z",
                     "owner": "frappe",
                     "repo": "crm",
-                    "stars": 3403
-                  }
+                    "stars": 3414
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -34,8 +35,9 @@
                     "last_commit": "2026-08-26T06:38:45Z",
                     "owner": "frappe",
                     "repo": "lms",
-                    "stars": 3169
-                  }
+                    "stars": 3170
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -50,7 +52,8 @@
                     "owner": "frappe",
                     "repo": "insights",
                     "stars": 1009
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -64,8 +67,9 @@
                     "last_commit": "2026-08-26T07:49:45Z",
                     "owner": "frappe",
                     "repo": "education",
-                    "stars": 611
-                  }
+                    "stars": 612
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -80,7 +84,8 @@
                     "owner": "earthians",
                     "repo": "marley",
                     "stars": 524
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -91,11 +96,12 @@
                     "archived": false,
                     "id": 454193270,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:07:20Z",
+                    "last_commit": "2026-08-27T17:42:19Z",
                     "owner": "frappe",
                     "repo": "gameplan",
-                    "stars": 512
-                  }
+                    "stars": 513
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -109,8 +115,9 @@
                     "last_commit": "2026-08-27T10:59:43Z",
                     "owner": "ury-erp",
                     "repo": "ury",
-                    "stars": 347
-                  }
+                    "stars": 349
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -124,8 +131,9 @@
                     "last_commit": "2026-08-26T14:07:09Z",
                     "owner": "frappe",
                     "repo": "lending",
-                    "stars": 332
-                  }
+                    "stars": 333
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -140,7 +148,8 @@
                     "owner": "frappe",
                     "repo": "mail",
                     "stars": 212
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -155,7 +164,8 @@
                     "owner": "frappe",
                     "repo": "webshop",
                     "stars": 198
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -170,7 +180,8 @@
                     "owner": "alphabit-technology",
                     "repo": "erpnext-restaurant",
                     "stars": 191
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -185,7 +196,8 @@
                     "owner": "frappe",
                     "repo": "payments",
                     "stars": 173
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -200,7 +212,8 @@
                     "owner": "AgileShift",
                     "repo": "cargo_management",
                     "stars": 119
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -214,8 +227,9 @@
                     "last_commit": "2026-07-13T16:25:55Z",
                     "owner": "clefincode",
                     "repo": "clefincode_chat",
-                    "stars": 116
-                  }
+                    "stars": 117
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -230,7 +244,8 @@
                     "owner": "alyf-de",
                     "repo": "banking",
                     "stars": 110
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -245,7 +260,8 @@
                     "owner": "frappe",
                     "repo": "agriculture",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -260,7 +276,8 @@
                     "owner": "frappe",
                     "repo": "hospitality",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -275,7 +292,8 @@
                     "owner": "aakvatech",
                     "repo": "PropMS",
                     "stars": 68
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -290,7 +308,8 @@
                     "owner": "frappe",
                     "repo": "non_profit",
                     "stars": 63
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -305,7 +324,8 @@
                     "owner": "aerele",
                     "repo": "apparelo",
                     "stars": 59
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -320,7 +340,8 @@
                     "owner": "fossunited",
                     "repo": "mon_school",
                     "stars": 47
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -335,7 +356,8 @@
                     "owner": "kid1194",
                     "repo": "erpnext_expenses",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -350,7 +372,8 @@
                     "owner": "efeone",
                     "repo": "aumms",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -365,7 +388,8 @@
                     "owner": "aakvatech",
                     "repo": "servicems",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -380,7 +404,8 @@
                     "owner": "YefriTavarez",
                     "repo": "fimax",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -395,7 +420,8 @@
                     "owner": "Sendipad",
                     "repo": "uph",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -410,7 +436,8 @@
                     "owner": "finbyz",
                     "repo": "stonewarehouse",
                     "stars": 11
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -425,7 +452,8 @@
                     "owner": "Cre8tivMaxx",
                     "repo": "discipline_hr",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -440,7 +468,8 @@
                     "owner": "yashtilala412",
                     "repo": "Desk_Allocation_System",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -455,7 +484,8 @@
                     "owner": "fderyckel",
                     "repo": "ifitwala_ed",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -477,7 +507,8 @@
                     "owner": "bailabs",
                     "repo": "tailpos",
                     "stars": 665
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -492,7 +523,8 @@
                     "owner": "ucraft-com",
                     "repo": "POS-Awesome",
                     "stars": 511
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -503,11 +535,12 @@
                     "archived": false,
                     "id": 1068597577,
                     "language": "Vue",
-                    "last_commit": "2026-08-26T15:08:27Z",
+                    "last_commit": "2026-08-27T13:40:41Z",
                     "owner": "BrainWise-DEV",
                     "repo": "POSNext",
-                    "stars": 148
-                  }
+                    "stars": 149
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -522,7 +555,8 @@
                     "owner": "defendicon",
                     "repo": "POS-Awesome-V15",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -537,7 +571,8 @@
                     "owner": "aisenyi",
                     "repo": "pasigono",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -552,7 +587,8 @@
                     "owner": "kodlyft",
                     "repo": "xpos",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -567,7 +603,8 @@
                     "owner": "kid1194",
                     "repo": "erpnext_pos_controller",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -585,11 +622,12 @@
                     "archived": false,
                     "id": 599901267,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-25T13:20:21Z",
+                    "last_commit": "2026-08-27T19:22:43Z",
                     "owner": "frappe",
                     "repo": "raven",
-                    "stars": 757
-                  }
+                    "stars": 761
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -604,7 +642,8 @@
                     "owner": "frappe",
                     "repo": "print_designer",
                     "stars": 444
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -615,11 +654,12 @@
                     "archived": false,
                     "id": 298861997,
                     "language": "Python",
-                    "last_commit": "2026-08-27T07:26:09Z",
+                    "last_commit": "2026-08-27T16:15:05Z",
                     "owner": "frappe",
                     "repo": "wiki",
                     "stars": 429
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -634,7 +674,8 @@
                     "owner": "frappe",
                     "repo": "chat",
                     "stars": 129
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -649,7 +690,8 @@
                     "owner": "Monogramm",
                     "repo": "erpnext_ocr",
                     "stars": 107
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -664,7 +706,8 @@
                     "owner": "ahmadpak",
                     "repo": "erpnext_quota",
                     "stars": 103
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -679,7 +722,8 @@
                     "owner": "frappe",
                     "repo": "bench_manager",
                     "stars": 77
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -694,7 +738,8 @@
                     "owner": "Datahenge",
                     "repo": "btu",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -709,7 +754,8 @@
                     "owner": "TridotsTech",
                     "repo": "go1cms",
                     "stars": 61
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -724,7 +770,8 @@
                     "owner": "pibico",
                     "repo": "pibicut",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -739,7 +786,8 @@
                     "owner": "kid1194",
                     "repo": "frappe_alerts",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -754,7 +802,8 @@
                     "owner": "Monogramm",
                     "repo": "frappe_pwa",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -769,7 +818,8 @@
                     "owner": "frappe",
                     "repo": "event_streaming",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -784,7 +834,8 @@
                     "owner": "Arus-Info",
                     "repo": "ProjectIT",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -799,7 +850,8 @@
                     "owner": "mymi14s",
                     "repo": "frappe_system_monitor",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -814,7 +866,8 @@
                     "owner": "muneeb141",
                     "repo": "ghost",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -829,7 +882,8 @@
                     "owner": "jezlan",
                     "repo": "xcelform",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -844,7 +898,8 @@
                     "owner": "pifabs",
                     "repo": "restipie",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -859,7 +914,8 @@
                     "owner": "ibrahim317",
                     "repo": "enhanced_kanban_view",
                     "stars": 20
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -874,7 +930,8 @@
                     "owner": "rtCamp",
                     "repo": "frappe-comment-xt",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -889,7 +946,8 @@
                     "owner": "shridarpatil",
                     "repo": "frappe_private_attachments",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -904,7 +962,8 @@
                     "owner": "Datahenge",
                     "repo": "temporal",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -919,7 +978,8 @@
                     "owner": "NagariaHussain",
                     "repo": "frappe_dynamic_og",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -934,7 +994,8 @@
                     "owner": "aakvatech",
                     "repo": "Bulk-Webhook",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -949,7 +1010,8 @@
                     "owner": "Midocean-Technologies",
                     "repo": "mtpl_api",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -964,7 +1026,8 @@
                     "owner": "agatho-daemon",
                     "repo": "crispy_print",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -979,7 +1042,8 @@
                     "owner": "meichthys",
                     "repo": "frappe_web_push",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -994,7 +1058,8 @@
                     "owner": "Mazen-Almortada",
                     "repo": "incontext_translation",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1009,7 +1074,8 @@
                     "owner": "Negentropy-Solutions",
                     "repo": "matcha",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1024,7 +1090,8 @@
                     "owner": "frappe",
                     "repo": "release",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1039,7 +1106,8 @@
                     "owner": "ParsimonyGit",
                     "repo": "frappe-sentry",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1054,7 +1122,8 @@
                     "owner": "nilpatel42",
                     "repo": "mind_map",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1069,7 +1138,8 @@
                     "owner": "grandpaSam",
                     "repo": "item-code-generator",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -1091,7 +1161,8 @@
                     "owner": "ERPGulf",
                     "repo": "changai",
                     "stars": 69
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1106,7 +1177,8 @@
                     "owner": "KorucuTech",
                     "repo": "kai",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1121,7 +1193,8 @@
                     "owner": "byt3crafter",
                     "repo": "erpnext-copilot",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1136,7 +1209,8 @@
                     "owner": "alyf-de",
                     "repo": "ask_alyf",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1151,7 +1225,8 @@
                     "owner": "gavindsouza",
                     "repo": "photos",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1166,7 +1241,8 @@
                     "owner": "navdeepghai",
                     "repo": "nextassist",
                     "stars": 13
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -1188,7 +1264,8 @@
                     "owner": "roquegv",
                     "repo": "Silent-Print-ERPNext",
                     "stars": 65
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1203,7 +1280,8 @@
                     "owner": "kid1194",
                     "repo": "frappe-better-attach-control",
                     "stars": 56
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1218,7 +1296,8 @@
                     "owner": "kid1194",
                     "repo": "frappe-better-list-view",
                     "stars": 50
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1233,7 +1312,8 @@
                     "owner": "shridarpatil",
                     "repo": "frappe_tinymce",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1248,7 +1328,8 @@
                     "owner": "kid1194",
                     "repo": "frappe-active-users",
                     "stars": 45
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1263,7 +1344,8 @@
                     "owner": "MohammedNoureldin",
                     "repo": "frappe-oidc-extended",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1278,7 +1360,8 @@
                     "owner": "gavindsouza",
                     "repo": "desk-navbar-extended",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1293,7 +1376,8 @@
                     "owner": "ashish-greycube",
                     "repo": "jodit_html_editor",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1308,7 +1392,8 @@
                     "owner": "zaid2229",
                     "repo": "Export-Settings",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1323,7 +1408,8 @@
                     "owner": "kid1194",
                     "repo": "frappe-better-select-control",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1338,7 +1424,8 @@
                     "owner": "mymi14s",
                     "repo": "language_translator",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1353,7 +1440,8 @@
                     "owner": "kid1194",
                     "repo": "ERPNext-Fiscal-Year-Based-Date-Related-Fields",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1368,7 +1456,8 @@
                     "owner": "kid1194",
                     "repo": "frappe-better-numerical-controls",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1383,7 +1472,8 @@
                     "owner": "rareMaxim",
                     "repo": "frappe_msdoc_template",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1398,7 +1488,8 @@
                     "owner": "geraldmeunier",
                     "repo": "frappe_bpmn_diagrams",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1413,7 +1504,8 @@
                     "owner": "zaid2229",
                     "repo": "language-toggle",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1428,7 +1520,8 @@
                     "owner": "mymi14s",
                     "repo": "database_console",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1443,7 +1536,8 @@
                     "owner": "kid1194",
                     "repo": "frappe-list-unassign-from",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1458,7 +1552,8 @@
                     "owner": "kid1194",
                     "repo": "frappe-strict-session-defaults",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -1479,8 +1574,9 @@
                     "last_commit": "2026-08-04T12:27:02Z",
                     "owner": "shridarpatil",
                     "repo": "frappe_whatsapp",
-                    "stars": 467
-                  }
+                    "stars": 468
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1495,7 +1591,8 @@
                     "owner": "yrestom",
                     "repo": "erpnext_telegram",
                     "stars": 148
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1510,7 +1607,8 @@
                     "owner": "frappe",
                     "repo": "twilio-integration",
                     "stars": 80
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1525,7 +1623,8 @@
                     "owner": "frappe",
                     "repo": "waba_integration",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1540,7 +1639,8 @@
                     "owner": "leam-tech",
                     "repo": "frappe_telegram",
                     "stars": 43
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1555,7 +1655,8 @@
                     "owner": "tridz-dev",
                     "repo": "erpnext_fcm",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1570,7 +1671,8 @@
                     "owner": "dhwani-ris",
                     "repo": "frappe_msg91_integration",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1585,7 +1687,8 @@
                     "owner": "frappe",
                     "repo": "mandrill_integration",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -1607,7 +1710,8 @@
                     "owner": "aerele",
                     "repo": "bank_api_integration",
                     "stars": 72
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1622,7 +1726,8 @@
                     "owner": "jHetzer",
                     "repo": "erpnextfints",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1637,7 +1742,8 @@
                     "owner": "resilient-tech",
                     "repo": "bank_integration",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1652,7 +1758,8 @@
                     "owner": "mymi14s",
                     "repo": "frappe_paystack",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1667,7 +1774,8 @@
                     "owner": "frappe",
                     "repo": "razorpay_integration",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1682,7 +1790,8 @@
                     "owner": "ruknsoftware",
                     "repo": "WalletE",
                     "stars": 9
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1697,7 +1806,8 @@
                     "owner": "NotAbdelrahmanelsayed",
                     "repo": "paymob_integration",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1712,7 +1822,8 @@
                     "owner": "Rocket-Quack",
                     "repo": "erpnext_sumup",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -1730,11 +1841,12 @@
                     "archived": false,
                     "id": 357453173,
                     "language": "Python",
-                    "last_commit": "2026-08-19T10:11:58Z",
+                    "last_commit": "2026-08-27T11:56:10Z",
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
                     "stars": 201
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1745,11 +1857,12 @@
                     "archived": false,
                     "id": 357453173,
                     "language": "Python",
-                    "last_commit": "2026-08-19T10:11:58Z",
+                    "last_commit": "2026-08-27T11:56:10Z",
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
                     "stars": 201
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1760,11 +1873,12 @@
                     "archived": false,
                     "id": 357453173,
                     "language": "Python",
-                    "last_commit": "2026-08-19T10:11:58Z",
+                    "last_commit": "2026-08-27T11:56:10Z",
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
                     "stars": 201
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1775,11 +1889,12 @@
                     "archived": false,
                     "id": 357453173,
                     "language": "Python",
-                    "last_commit": "2026-08-19T10:11:58Z",
+                    "last_commit": "2026-08-27T11:56:10Z",
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
                     "stars": 201
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1794,7 +1909,8 @@
                     "owner": "frappe",
                     "repo": "erpnext-shipping",
                     "stars": 144
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1809,7 +1925,8 @@
                     "owner": "libracore",
                     "repo": "WooCommerceConnector",
                     "stars": 116
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1824,7 +1941,8 @@
                     "owner": "ParsimonyGit",
                     "repo": "shipstation_integration",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -1846,7 +1964,8 @@
                     "owner": "zerodha",
                     "repo": "frappe-attachments-s3",
                     "stars": 168
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1861,7 +1980,8 @@
                     "owner": "developmentforpeople",
                     "repo": "dfp_external_storage",
                     "stars": 62
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1876,7 +1996,8 @@
                     "owner": "frappe",
                     "repo": "nextcloud-integration",
                     "stars": 58
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1891,7 +2012,8 @@
                     "owner": "doloresjuliana",
                     "repo": "pibiapp",
                     "stars": 42
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1906,7 +2028,8 @@
                     "owner": "pibico",
                     "repo": "pibiDAV",
                     "stars": 38
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1921,7 +2044,8 @@
                     "owner": "frappe",
                     "repo": "storage_integration",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1936,7 +2060,8 @@
                     "owner": "Muzzy73",
                     "repo": "rclone_integration",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -1958,7 +2083,8 @@
                     "owner": "alyf-de",
                     "repo": "erpnext_datev",
                     "stars": 49
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1973,7 +2099,8 @@
                     "owner": "pipech",
                     "repo": "frappe-metabase",
                     "stars": 48
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -1988,7 +2115,8 @@
                     "owner": "efeone",
                     "repo": "frappe_meta_integration",
                     "stars": 46
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2003,7 +2131,8 @@
                     "owner": "pipech",
                     "repo": "frappe-plotly-dash",
                     "stars": 31
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2018,7 +2147,8 @@
                     "owner": "msf4-0",
                     "repo": "ERPNext-Frepple-Integration",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2033,7 +2163,8 @@
                     "owner": "dokos-io",
                     "repo": "mautic",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2048,7 +2179,8 @@
                     "owner": "techmaxsolucoes",
                     "repo": "printnode-integration",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2063,7 +2195,8 @@
                     "owner": "shridarpatil",
                     "repo": "frappe_discourse",
                     "stars": 19
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2078,7 +2211,8 @@
                     "owner": "Aptitudetech",
                     "repo": "frappe-m365",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2093,7 +2227,8 @@
                     "owner": "aerele",
                     "repo": "ewb_api_integration",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2108,7 +2243,8 @@
                     "owner": "wahni-green",
                     "repo": "fc_site_manager",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2123,7 +2259,8 @@
                     "owner": "Avunu",
                     "repo": "postgrid_integration",
                     "stars": 3
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -2145,7 +2282,8 @@
                     "owner": "Midocean-Technologies",
                     "repo": "business_theme_v14",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2160,7 +2298,8 @@
                     "owner": "hashirluv",
                     "repo": "bluetheme",
                     "stars": 66
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2175,7 +2314,8 @@
                     "owner": "dhwani-ris",
                     "repo": "frappe_desk_theme",
                     "stars": 44
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2190,7 +2330,8 @@
                     "owner": "Sudhanshu-Badole",
                     "repo": "Portal_Theme",
                     "stars": 34
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2205,7 +2346,8 @@
                     "owner": "tahir-3",
                     "repo": "owl_theme",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2220,7 +2362,8 @@
                     "owner": "hashirluv",
                     "repo": "redtheme_v13b",
                     "stars": 30
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2235,7 +2378,8 @@
                     "owner": "hashirluv",
                     "repo": "whitetheme-v13",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2250,7 +2394,8 @@
                     "owner": "vineyrawat",
                     "repo": "Tekton-Theme",
                     "stars": 26
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2265,7 +2410,8 @@
                     "owner": "itrostack",
                     "repo": "material_theme",
                     "stars": 21
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2280,7 +2426,8 @@
                     "owner": "Infintrix-Technologies",
                     "repo": "infintrix_theme",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2295,7 +2442,8 @@
                     "owner": "michaelkaraz",
                     "repo": "kimstheme",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2310,7 +2458,8 @@
                     "owner": "Muhammad-shaalan",
                     "repo": "pink-theme",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -2328,11 +2477,12 @@
                     "archived": false,
                     "id": 442197315,
                     "language": "Python",
-                    "last_commit": "2026-08-25T11:18:40Z",
+                    "last_commit": "2026-08-27T13:06:07Z",
                     "owner": "resilient-tech",
                     "repo": "india-compliance",
                     "stars": 264
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2347,7 +2497,8 @@
                     "owner": "yarsa",
                     "repo": "nepal-compliance",
                     "stars": 173
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2362,7 +2513,8 @@
                     "owner": "alyf-de",
                     "repo": "erpnext_germany",
                     "stars": 89
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2377,7 +2529,8 @@
                     "owner": "lavaloon-eg",
                     "repo": "ksa_compliance",
                     "stars": 85
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2392,7 +2545,8 @@
                     "owner": "aakvatech",
                     "repo": "CSF_TZ",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2407,7 +2561,8 @@
                     "owner": "scopen-coop",
                     "repo": "erpnext_france",
                     "stars": 25
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2422,7 +2577,8 @@
                     "owner": "ecosoft-frappe",
                     "repo": "erpnext_thailand",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2437,7 +2593,8 @@
                     "owner": "navariltd",
                     "repo": "kenya-compliance-via-slade",
                     "stars": 24
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2452,7 +2609,8 @@
                     "owner": "aerele",
                     "repo": "reconciler",
                     "stars": 18
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2467,7 +2625,8 @@
                     "owner": "Grynn-GmbH",
                     "repo": "Swiss-QR-Bill-ERPNext",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2482,7 +2641,8 @@
                     "owner": "Grynn-GmbH",
                     "repo": "Swiss-E-invoicing-ERPNext",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2497,7 +2657,8 @@
                     "owner": "ERPGulf",
                     "repo": "uae_erpgulf",
                     "stars": 14
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2512,7 +2673,8 @@
                     "owner": "EPIUSECX",
                     "repo": "cohenix_local_za",
                     "stars": 12
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2527,7 +2689,8 @@
                     "owner": "ParaLogicTech",
                     "repo": "erpnext_pk",
                     "stars": 10
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2542,7 +2705,8 @@
                     "owner": "Rocket-Quack",
                     "repo": "erpnext_tse",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2557,7 +2721,8 @@
                     "owner": "Solede-SA",
                     "repo": "italian_invoice",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2572,7 +2737,8 @@
                     "owner": "phamos-eu",
                     "repo": "Swiss-Accounting-Integration",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2587,7 +2753,8 @@
                     "owner": "CrystalisedApps",
                     "repo": "ca-erpnext-zra",
                     "stars": 6
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2602,7 +2769,8 @@
                     "owner": "aakvatech",
                     "repo": "Payware",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2617,7 +2785,8 @@
                     "owner": "kingstechspl",
                     "repo": "Singapore-Compliance",
                     "stars": 2
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2632,7 +2801,8 @@
                     "owner": "zelin-tech",
                     "repo": "erpnext_china",
                     "stars": 1
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -2654,7 +2824,8 @@
                     "owner": "bhavesh95863",
                     "repo": "whitelabel",
                     "stars": 232
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2669,7 +2840,8 @@
                     "owner": "alyf-de",
                     "repo": "erpnext_pdf-on-submit",
                     "stars": 112
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2684,7 +2856,8 @@
                     "owner": "phamos-eu",
                     "repo": "it_management",
                     "stars": 97
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2699,7 +2872,8 @@
                     "owner": "NagariaHussain",
                     "repo": "digistore",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2714,7 +2888,8 @@
                     "owner": "the-bantoo",
                     "repo": "expense_request",
                     "stars": 41
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2729,7 +2904,8 @@
                     "owner": "zerodha",
                     "repo": "vendor-payments",
                     "stars": 36
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2744,7 +2920,8 @@
                     "owner": "morghim",
                     "repo": "contract-payment",
                     "stars": 35
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2759,7 +2936,8 @@
                     "owner": "pstuhlmueller",
                     "repo": "workspaceperms",
                     "stars": 29
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2774,7 +2952,8 @@
                     "owner": "Monogramm",
                     "repo": "recod_erpnext_design",
                     "stars": 28
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2789,7 +2968,8 @@
                     "owner": "iptelephony",
                     "repo": "persona",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2804,7 +2984,8 @@
                     "owner": "ahmadpak",
                     "repo": "doubleledger",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2819,7 +3000,8 @@
                     "owner": "fossunited",
                     "repo": "robinhood",
                     "stars": 16
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2834,7 +3016,8 @@
                     "owner": "one-highflyer",
                     "repo": "frappe-signage-display-app",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2849,7 +3032,8 @@
                     "owner": "scopen-coop",
                     "repo": "stock_reconcialiation_per_item_group",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2864,7 +3048,8 @@
                     "owner": "scopen-coop",
                     "repo": "special_item_accountancy_code",
                     "stars": 5
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -2879,7 +3064,8 @@
                     "owner": "scopen-coop",
                     "repo": "frappe-mail-reminder",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -2906,7 +3092,8 @@
                 "owner": "frappe",
                 "repo": "frappe-ui",
                 "stars": 1006
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -2917,11 +3104,12 @@
                 "archived": false,
                 "id": 664842578,
                 "language": "Python",
-                "last_commit": "2026-08-27T08:21:41Z",
+                "last_commit": "2026-08-27T14:33:26Z",
                 "owner": "rtCamp",
                 "repo": "Frappe-Manager",
                 "stars": 413
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -2936,7 +3124,8 @@
                 "owner": "NagariaHussain",
                 "repo": "doppio",
                 "stars": 362
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -2951,7 +3140,8 @@
                 "owner": "bwhtech",
                 "repo": "nano_press",
                 "stars": 78
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -2966,7 +3156,8 @@
                 "owner": "frappe",
                 "repo": "frappe-types",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -2981,7 +3172,8 @@
                 "owner": "frappe",
                 "repo": "semgrep-rules",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -2996,7 +3188,8 @@
                 "owner": "frappe",
                 "repo": "intellisense",
                 "stars": 61
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3011,7 +3204,8 @@
                 "owner": "0xsirsaif",
                 "repo": "frappeapi",
                 "stars": 60
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3026,7 +3220,8 @@
                 "owner": "leam-tech",
                 "repo": "frappe_graphql",
                 "stars": 53
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3041,7 +3236,8 @@
                 "owner": "ElasticRun",
                 "repo": "barista",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3056,7 +3252,8 @@
                 "owner": "Henry-Do-Su",
                 "repo": "frappe_deployer",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3071,7 +3268,8 @@
                 "owner": "The-Commit-Company",
                 "repo": "frappe_er_generator",
                 "stars": 37
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3086,7 +3284,8 @@
                 "owner": "yemikudaisi",
                 "repo": "frappeviz",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3101,7 +3300,8 @@
                 "owner": "pifabs",
                 "repo": "fsocket",
                 "stars": 32
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3116,7 +3316,8 @@
                 "owner": "yrestom",
                 "repo": "Console",
                 "stars": 28
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3131,7 +3332,8 @@
                 "owner": "assemmarwan",
                 "repo": "model_generator",
                 "stars": 21
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3146,7 +3348,8 @@
                 "owner": "SolDevelo",
                 "repo": "InfraScan",
                 "stars": 19
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3161,7 +3364,8 @@
                 "owner": "soumyasethy",
                 "repo": "lazychat-erpnext",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3176,7 +3380,8 @@
                 "owner": "ascorbic-acid",
                 "repo": "frappe_chrome_dev_utils",
                 "stars": 16
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3191,7 +3396,8 @@
                 "owner": "ankush",
                 "repo": "frappe_test.vim",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3206,7 +3412,8 @@
                 "owner": "robproject",
                 "repo": "fsjd",
                 "stars": 12
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3221,7 +3428,8 @@
                 "owner": "manikantadm09",
                 "repo": "tally-prime-erpnext-migrator",
                 "stars": 3
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3236,7 +3444,8 @@
                 "owner": "rareMaxim",
                 "repo": "lost_doctype",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3251,7 +3460,8 @@
                 "owner": "scopen-coop",
                 "repo": "scopen-frappe-diff",
                 "stars": 1
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "children": [
@@ -3268,7 +3478,8 @@
                     "owner": "frappe",
                     "repo": "frappe-react-sdk",
                     "stars": 186
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3283,7 +3494,8 @@
                     "owner": "frappe",
                     "repo": "frappe-js-sdk",
                     "stars": 166
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3298,7 +3510,8 @@
                     "owner": "0xsirsaif",
                     "repo": "frappeapi",
                     "stars": 60
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3313,7 +3526,8 @@
                     "owner": "zerodha",
                     "repo": "py-frappe-client",
                     "stars": 33
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3328,7 +3542,8 @@
                     "owner": "ssiyad",
                     "repo": "frappe-straw",
                     "stars": 23
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3343,7 +3558,8 @@
                     "owner": "leam-tech",
                     "repo": "renovation_core",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3358,7 +3574,8 @@
                     "owner": "leam-tech",
                     "repo": "renovation_core.dart",
                     "stars": 17
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3373,7 +3590,8 @@
                     "owner": "yemikudaisi",
                     "repo": "FrappeRestClient.Net",
                     "stars": 8
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3388,7 +3606,8 @@
                     "owner": "bailabs",
                     "repo": "frappe-request",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3403,7 +3622,8 @@
                     "owner": "hizbul25",
                     "repo": "frappe-client",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -3425,7 +3645,8 @@
                     "owner": "NagariaHussain",
                     "repo": "doppio_bot",
                     "stars": 76
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3440,7 +3661,8 @@
                     "owner": "NagariaHussain",
                     "repo": "doppio_frappeui_starter",
                     "stars": 39
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3455,7 +3677,8 @@
                     "owner": "Monogramm",
                     "repo": "erpnext_template",
                     "stars": 22
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -3476,8 +3699,9 @@
                     "last_commit": "2026-08-27T06:27:49Z",
                     "owner": "buildswithpaul",
                     "repo": "Frappe_Assistant_Core",
-                    "stars": 293
-                  }
+                    "stars": 294
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3491,8 +3715,9 @@
                     "last_commit": "2026-05-29T08:46:55Z",
                     "owner": "frappe",
                     "repo": "mcp",
-                    "stars": 157
-                  }
+                    "stars": 158
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3503,11 +3728,12 @@
                     "archived": false,
                     "id": 1195291274,
                     "language": null,
-                    "last_commit": "2026-08-12T06:37:15Z",
+                    "last_commit": "2026-08-27T12:27:00Z",
                     "owner": "frappe",
                     "repo": "skills",
                     "stars": 108
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3522,7 +3748,8 @@
                     "owner": "tridz-dev",
                     "repo": "huf",
                     "stars": 107
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3536,8 +3763,9 @@
                     "last_commit": "2026-08-27T03:30:31Z",
                     "owner": "Casys-AI",
                     "repo": "mcp-erpnext",
-                    "stars": 84
-                  }
+                    "stars": 85
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3552,7 +3780,8 @@
                     "owner": "appliedrelevance",
                     "repo": "frappe-mcp-server",
                     "stars": 15
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3566,8 +3795,9 @@
                     "last_commit": "2026-06-07T10:35:33Z",
                     "owner": "sbknext",
                     "repo": "forge-frappe-skill",
-                    "stars": 12
-                  }
+                    "stars": 13
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3582,7 +3812,8 @@
                     "owner": "john-broadway",
                     "repo": "pacioli",
                     "stars": 4
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -3609,7 +3840,8 @@
                 "owner": "frappe",
                 "repo": "biometric-attendance-sync-tool",
                 "stars": 283
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3624,7 +3856,8 @@
                 "owner": "msf4-0",
                 "repo": "SWSI",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             }
           ],
           "description": "Tools that bridge Frappe with physical hardware or IoT devices",
@@ -3645,8 +3878,9 @@
                 "last_commit": "2026-08-25T17:36:42Z",
                 "owner": "frappe",
                 "repo": "frappe_docker",
-                "stars": 2539
-              }
+                "stars": 2540
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3661,7 +3895,8 @@
                 "owner": "vyogotech",
                 "repo": "frappe-operator",
                 "stars": 48
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3676,7 +3911,8 @@
                 "owner": "martinhbramwell",
                 "repo": "ERPNextFailOver",
                 "stars": 34
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3691,7 +3927,8 @@
                 "owner": "castlecraft",
                 "repo": "benchless",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3706,7 +3943,8 @@
                 "owner": "vyogotech",
                 "repo": "frappista",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3721,7 +3959,8 @@
                 "owner": "geniusdynamics",
                 "repo": "erp-next-docker",
                 "stars": 0
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             }
           ],
           "description": "Resources allowing you to deploy Frappe apps with your favourite toolset",
@@ -3743,7 +3982,8 @@
                 "owner": "frappe",
                 "repo": "mobile",
                 "stars": 272
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             },
             {
               "node_type": "item",
@@ -3758,7 +3998,8 @@
                 "owner": "mymi14s",
                 "repo": "frappevue_adminlte",
                 "stars": 64
-              }
+              },
+              "first_seen": "2026-08-28T04:32:25.182Z"
             }
           ],
           "description": "Clients built for the Frappe Framework, other than the standard browser view Desk",
@@ -3778,11 +4019,12 @@
                     "archived": false,
                     "id": 226800899,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:23:21Z",
+                    "last_commit": "2026-08-27T16:37:15Z",
                     "owner": "frappe",
                     "repo": "press",
                     "stars": 561
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 },
                 {
                   "node_type": "item",
@@ -3797,7 +4039,8 @@
                     "owner": "geniusdynamics",
                     "repo": "ns8-erpnext",
                     "stars": 7
-                  }
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
                 }
               ],
               "description": null,
@@ -3814,7 +4057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:40:02.412Z",
+    "last_updated": "2026-08-28T04:32:25.182Z",
     "original_repository_info": {
       "archived": false,
       "id": 413699196,
