@@ -16,10 +16,10 @@
                     "archived": false,
                     "id": 668199241,
                     "language": "Vue",
-                    "last_commit": "2026-08-27T11:29:02Z",
+                    "last_commit": "2026-08-29T00:05:34Z",
                     "owner": "frappe",
                     "repo": "crm",
-                    "stars": 3414
+                    "stars": 3424
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -32,7 +32,7 @@
                     "archived": false,
                     "id": 338984146,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-26T06:38:45Z",
+                    "last_commit": "2026-08-29T00:18:12Z",
                     "owner": "frappe",
                     "repo": "lms",
                     "stars": 3170
@@ -48,7 +48,7 @@
                     "archived": false,
                     "id": 508700935,
                     "language": "Python",
-                    "last_commit": "2026-08-27T10:47:32Z",
+                    "last_commit": "2026-08-28T06:34:03Z",
                     "owner": "frappe",
                     "repo": "insights",
                     "stars": 1009
@@ -67,7 +67,7 @@
                     "last_commit": "2026-08-26T07:49:45Z",
                     "owner": "frappe",
                     "repo": "education",
-                    "stars": 612
+                    "stars": 613
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -80,7 +80,7 @@
                     "archived": false,
                     "id": 399456228,
                     "language": "Python",
-                    "last_commit": "2026-08-25T10:13:47Z",
+                    "last_commit": "2026-08-28T13:11:28Z",
                     "owner": "earthians",
                     "repo": "marley",
                     "stars": 524
@@ -96,7 +96,7 @@
                     "archived": false,
                     "id": 454193270,
                     "language": "Python",
-                    "last_commit": "2026-08-27T17:42:19Z",
+                    "last_commit": "2026-08-28T22:32:12Z",
                     "owner": "frappe",
                     "repo": "gameplan",
                     "stars": 513
@@ -112,7 +112,7 @@
                     "archived": false,
                     "id": 702319868,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T10:59:43Z",
+                    "last_commit": "2026-08-28T15:31:35Z",
                     "owner": "ury-erp",
                     "repo": "ury",
                     "stars": 349
@@ -128,7 +128,7 @@
                     "archived": false,
                     "id": 647683397,
                     "language": "Python",
-                    "last_commit": "2026-08-26T14:07:09Z",
+                    "last_commit": "2026-08-28T15:34:03Z",
                     "owner": "frappe",
                     "repo": "lending",
                     "stars": 333
@@ -291,7 +291,7 @@
                     "last_commit": "2024-08-08T19:14:39Z",
                     "owner": "aakvatech",
                     "repo": "PropMS",
-                    "stars": 68
+                    "stars": 69
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -538,7 +538,7 @@
                     "last_commit": "2026-08-27T13:40:41Z",
                     "owner": "BrainWise-DEV",
                     "repo": "POSNext",
-                    "stars": 149
+                    "stars": 150
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -583,7 +583,7 @@
                     "archived": false,
                     "id": 1167940692,
                     "language": "Python",
-                    "last_commit": "2026-08-24T08:17:53Z",
+                    "last_commit": "2026-08-28T09:32:06Z",
                     "owner": "kodlyft",
                     "repo": "xpos",
                     "stars": 33
@@ -622,10 +622,10 @@
                     "archived": false,
                     "id": 599901267,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-27T19:22:43Z",
+                    "last_commit": "2026-08-28T09:17:27Z",
                     "owner": "frappe",
                     "repo": "raven",
-                    "stars": 761
+                    "stars": 765
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -641,7 +641,7 @@
                     "last_commit": "2026-08-27T06:29:24Z",
                     "owner": "frappe",
                     "repo": "print_designer",
-                    "stars": 444
+                    "stars": 445
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -999,6 +999,22 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Crispy Print",
+                  "description": "Typst-powered printing and report formatting engine for Frappe with a visual builder and code-level control for consistent, production-quality PDFs.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1108854875,
+                    "language": "Python",
+                    "last_commit": "2026-07-29T05:52:49Z",
+                    "owner": "agatho-daemon",
+                    "repo": "crispy_print",
+                    "stars": 14
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "SmartConnect Mobile Application",
                   "description": "Interactive Mobile Application (Pre-release Alpha Version)",
                   "children": [],
@@ -1010,22 +1026,6 @@
                     "owner": "Midocean-Technologies",
                     "repo": "mtpl_api",
                     "stars": 14
-                  },
-                  "first_seen": "2026-08-28T04:32:25.182Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Crispy Print",
-                  "description": "Typst-powered printing and report formatting engine for Frappe with a visual builder and code-level control for consistent, production-quality PDFs.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1108854875,
-                    "language": "Python",
-                    "last_commit": "2026-07-29T05:52:49Z",
-                    "owner": "agatho-daemon",
-                    "repo": "crispy_print",
-                    "stars": 13
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -1160,7 +1160,7 @@
                     "last_commit": "2026-08-18T13:36:56Z",
                     "owner": "ERPGulf",
                     "repo": "changai",
-                    "stars": 69
+                    "stars": 70
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -1205,7 +1205,7 @@
                     "archived": false,
                     "id": 1182824721,
                     "language": "Python",
-                    "last_commit": "2026-08-26T02:30:46Z",
+                    "last_commit": "2026-08-28T17:09:04Z",
                     "owner": "alyf-de",
                     "repo": "ask_alyf",
                     "stars": 17
@@ -2528,7 +2528,7 @@
                     "last_commit": "2026-08-18T15:41:40Z",
                     "owner": "lavaloon-eg",
                     "repo": "ksa_compliance",
-                    "stars": 85
+                    "stars": 86
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -2678,6 +2678,22 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "ERPNext TSE",
+                  "description": "This app extends ERPNext by connecting cash registers to a TSE and forms the basis for legally compliant cash register transactions in Germany (KassenSichV).",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1108738734,
+                    "language": "Python",
+                    "last_commit": "2026-04-28T13:43:04Z",
+                    "owner": "Rocket-Quack",
+                    "repo": "erpnext_tse",
+                    "stars": 11
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Pakistan Workspace",
                   "description": "Regional App for Pakistan with NIC, NTN, and STRN numbers, and reports for FBR tax compliance.",
                   "children": [],
@@ -2689,22 +2705,6 @@
                     "owner": "ParaLogicTech",
                     "repo": "erpnext_pk",
                     "stars": 10
-                  },
-                  "first_seen": "2026-08-28T04:32:25.182Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ERPNext TSE",
-                  "description": "This app extends ERPNext by connecting cash registers to a TSE and forms the basis for legally compliant cash register transactions in Germany (KassenSichV).",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 1108738734,
-                    "language": "Python",
-                    "last_commit": "2026-04-28T13:43:04Z",
-                    "owner": "Rocket-Quack",
-                    "repo": "erpnext_tse",
-                    "stars": 8
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -2999,7 +2999,7 @@
                     "last_commit": "2024-05-02T17:42:48Z",
                     "owner": "fossunited",
                     "repo": "robinhood",
-                    "stars": 16
+                    "stars": 17
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -3088,7 +3088,7 @@
                 "archived": false,
                 "id": 448930945,
                 "language": "TypeScript",
-                "last_commit": "2026-08-27T11:20:52Z",
+                "last_commit": "2026-08-28T22:46:32Z",
                 "owner": "frappe",
                 "repo": "frappe-ui",
                 "stars": 1006
@@ -3107,7 +3107,7 @@
                 "last_commit": "2026-08-27T14:33:26Z",
                 "owner": "rtCamp",
                 "repo": "Frappe-Manager",
-                "stars": 413
+                "stars": 414
               },
               "first_seen": "2026-08-28T04:32:25.182Z"
             },
@@ -3344,7 +3344,7 @@
                 "archived": false,
                 "id": 1165781095,
                 "language": "Python",
-                "last_commit": "2026-08-04T09:32:50Z",
+                "last_commit": "2026-08-28T11:17:56Z",
                 "owner": "SolDevelo",
                 "repo": "InfraScan",
                 "stars": 19
@@ -3427,7 +3427,7 @@
                 "last_commit": "2026-08-26T19:06:18Z",
                 "owner": "manikantadm09",
                 "repo": "tally-prime-erpnext-migrator",
-                "stars": 3
+                "stars": 4
               },
               "first_seen": "2026-08-28T04:32:25.182Z"
             },
@@ -3744,7 +3744,7 @@
                     "archived": false,
                     "id": 1035961723,
                     "language": "Python",
-                    "last_commit": "2026-08-25T11:43:12Z",
+                    "last_commit": "2026-08-29T01:03:31Z",
                     "owner": "tridz-dev",
                     "repo": "huf",
                     "stars": 107
@@ -3878,7 +3878,7 @@
                 "last_commit": "2026-08-25T17:36:42Z",
                 "owner": "frappe",
                 "repo": "frappe_docker",
-                "stars": 2540
+                "stars": 2541
               },
               "first_seen": "2026-08-28T04:32:25.182Z"
             },
@@ -3891,7 +3891,7 @@
                 "archived": false,
                 "id": 616296063,
                 "language": "Go",
-                "last_commit": "2026-08-26T09:12:08Z",
+                "last_commit": "2026-08-28T09:26:38Z",
                 "owner": "vyogotech",
                 "repo": "frappe-operator",
                 "stars": 48
@@ -4019,7 +4019,7 @@
                     "archived": false,
                     "id": 226800899,
                     "language": "Python",
-                    "last_commit": "2026-08-27T16:37:15Z",
+                    "last_commit": "2026-08-28T12:17:51Z",
                     "owner": "frappe",
                     "repo": "press",
                     "stars": 561
@@ -4057,7 +4057,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T04:32:25.182Z",
+    "last_updated": "2026-08-29T02:55:33.166Z",
     "original_repository_info": {
       "archived": false,
       "id": 413699196,
