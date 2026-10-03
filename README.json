@@ -19,11 +19,11 @@
                     "id": 668199241,
                     "language": "Vue",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T09:07:50Z",
+                    "last_commit": "2026-10-03T02:42:29Z",
                     "open_issues": 265,
                     "owner": "frappe",
                     "repo": "crm",
-                    "stars": 3698,
+                    "stars": 3701,
                     "topics": [
                       "crm",
                       "crm-connections",
@@ -159,7 +159,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-01T01:58:01Z",
-                    "open_issues": 74,
+                    "open_issues": 76,
                     "owner": "earthians",
                     "repo": "marley",
                     "stars": 539,
@@ -1062,7 +1062,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-02T08:03:21Z",
-                    "open_issues": 27,
+                    "open_issues": 28,
                     "owner": "frappe",
                     "repo": "wiki",
                     "stars": 440,
@@ -1830,8 +1830,8 @@
                     "id": 1239548961,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-02T21:29:07Z",
-                    "open_issues": 66,
+                    "last_commit": "2026-10-03T03:24:43Z",
+                    "open_issues": 63,
                     "owner": "aerele",
                     "repo": "jarvis",
                     "stars": 94,
@@ -2474,7 +2474,7 @@
                     "open_issues": 10,
                     "owner": "shridarpatil",
                     "repo": "frappe_whatsapp",
-                    "stars": 484,
+                    "stars": 485,
                     "topics": [
                       "erpnext",
                       "erpnext-whatsapp",
@@ -2785,7 +2785,7 @@
                     "open_issues": 0,
                     "owner": "ruknsoftware",
                     "repo": "WalletE",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -4726,7 +4726,7 @@
                 "open_issues": 198,
                 "owner": "frappe",
                 "repo": "frappe-ui",
-                "stars": 1046,
+                "stars": 1047,
                 "topics": [
                   "frappe",
                   "ui-components",
@@ -6236,7 +6236,7 @@
                     "open_issues": 781,
                     "owner": "frappe",
                     "repo": "press",
-                    "stars": 568,
+                    "stars": 569,
                     "topics": [
                       "cloud",
                       "docker",
@@ -6305,7 +6305,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T00:01:02.937Z",
+    "last_updated": "2026-10-03T04:46:23.172Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the Frappe Framework",
