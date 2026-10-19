@@ -19,11 +19,11 @@
                     "id": 668199241,
                     "language": "Vue",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-18T13:26:47Z",
-                    "open_issues": 268,
+                    "last_commit": "2026-10-19T12:27:58Z",
+                    "open_issues": 266,
                     "owner": "frappe",
                     "repo": "crm",
-                    "stars": 3814,
+                    "stars": 3821,
                     "topics": [
                       "crm",
                       "crm-connections",
@@ -60,11 +60,11 @@
                     "id": 338984146,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-16T20:34:08Z",
-                    "open_issues": 102,
+                    "last_commit": "2026-10-19T17:48:37Z",
+                    "open_issues": 100,
                     "owner": "frappe",
                     "repo": "lms",
-                    "stars": 3325,
+                    "stars": 3326,
                     "topics": [
                       "courses-management-system",
                       "education",
@@ -94,7 +94,7 @@
                     "id": 508700935,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-17T09:24:34Z",
+                    "last_commit": "2026-10-19T15:40:55Z",
                     "open_issues": 145,
                     "owner": "frappe",
                     "repo": "insights",
@@ -131,7 +131,7 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-15T14:37:31Z",
-                    "open_issues": 154,
+                    "open_issues": 155,
                     "owner": "frappe",
                     "repo": "education",
                     "stars": 669,
@@ -158,11 +158,11 @@
                     "id": 399456228,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-14T10:04:18Z",
-                    "open_issues": 75,
+                    "last_commit": "2026-10-19T23:54:19Z",
+                    "open_issues": 77,
                     "owner": "earthians",
                     "repo": "marley",
-                    "stars": 546,
+                    "stars": 547,
                     "topics": [
                       "ehr",
                       "emr",
@@ -190,11 +190,11 @@
                     "id": 454193270,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-17T17:59:40Z",
-                    "open_issues": 75,
+                    "last_commit": "2026-10-19T18:46:05Z",
+                    "open_issues": 76,
                     "owner": "frappe",
                     "repo": "gameplan",
-                    "stars": 519,
+                    "stars": 521,
                     "topics": [
                       "async",
                       "collaboration",
@@ -219,8 +219,8 @@
                     "id": 702319868,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-18T20:48:15Z",
-                    "open_issues": 97,
+                    "last_commit": "2026-10-19T08:45:24Z",
+                    "open_issues": 96,
                     "owner": "ury-erp",
                     "repo": "ury",
                     "stars": 390,
@@ -252,11 +252,11 @@
                     "id": 647683397,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-18T13:25:14Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-19T09:11:01Z",
+                    "open_issues": 30,
                     "owner": "frappe",
                     "repo": "lending",
-                    "stars": 358,
+                    "stars": 360,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -300,7 +300,7 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-09-15T02:25:16Z",
-                    "open_issues": 138,
+                    "open_issues": 139,
                     "owner": "frappe",
                     "repo": "webshop",
                     "stars": 209,
@@ -341,8 +341,8 @@
                     "id": 462189204,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-17T09:30:42Z",
-                    "open_issues": 114,
+                    "last_commit": "2026-10-19T12:37:21Z",
+                    "open_issues": 115,
                     "owner": "frappe",
                     "repo": "payments",
                     "stars": 179,
@@ -389,10 +389,10 @@
                     "language": "Python",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-15T15:38:39Z",
-                    "open_issues": 5,
+                    "open_issues": 4,
                     "owner": "clefincode",
                     "repo": "clefincode_chat",
-                    "stars": 124,
+                    "stars": 125,
                     "topics": [
                       "busniess",
                       "chat",
@@ -423,7 +423,7 @@
                     "open_issues": 25,
                     "owner": "alyf-de",
                     "repo": "banking",
-                    "stars": 110,
+                    "stars": 111,
                     "topics": [
                       "banking",
                       "business",
@@ -629,6 +629,27 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "ServiceMS",
+                  "description": "Service Management System for ERPNext by Aakvatech.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 366170086,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2023-06-01T05:10:16Z",
+                    "open_issues": 1,
+                    "owner": "aakvatech",
+                    "repo": "servicems",
+                    "stars": 16,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "FiMax",
                   "description": "Loan Management and Repayment Scheduling for ERPNext.",
                   "children": [],
@@ -654,27 +675,6 @@
                       "mariadb",
                       "python"
                     ]
-                  },
-                  "first_seen": "2026-08-28T04:32:25.182Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "ServiceMS",
-                  "description": "Service Management System for ERPNext by Aakvatech.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": null,
-                    "homepage": null,
-                    "id": 366170086,
-                    "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2023-06-01T05:10:16Z",
-                    "open_issues": 1,
-                    "owner": "aakvatech",
-                    "repo": "servicems",
-                    "stars": 15,
-                    "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
                 },
@@ -720,7 +720,7 @@
                     "open_issues": 1,
                     "owner": "finbyz",
                     "repo": "stonewarehouse",
-                    "stars": 10,
+                    "stars": 11,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -863,7 +863,7 @@
                     "open_issues": 25,
                     "owner": "bailabs",
                     "repo": "tailpos",
-                    "stars": 668,
+                    "stars": 667,
                     "topics": [
                       "android",
                       "erpnext",
@@ -918,11 +918,11 @@
                     "id": 1068597577,
                     "language": "Vue",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-18T14:50:19Z",
-                    "open_issues": 29,
+                    "last_commit": "2026-10-19T11:30:42Z",
+                    "open_issues": 30,
                     "owner": "BrainWise-DEV",
                     "repo": "POSNext",
-                    "stars": 166,
+                    "stars": 167,
                     "topics": [
                       "erpnext",
                       "frappe-framework",
@@ -986,8 +986,8 @@
                     "id": 1167940692,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T13:25:19Z",
-                    "open_issues": 11,
+                    "last_commit": "2026-10-19T15:31:28Z",
+                    "open_issues": 8,
                     "owner": "kodlyft",
                     "repo": "xpos",
                     "stars": 50,
@@ -1039,15 +1039,15 @@
                   "repo_info": {
                     "archived": false,
                     "description": "Simple, open source team messaging platform",
-                    "homepage": "https://www.ravenchat.ai/",
+                    "homepage": "https://www.frappe.io/product/raven",
                     "id": 599901267,
                     "language": "TypeScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-17T20:16:17Z",
-                    "open_issues": 79,
+                    "last_commit": "2026-10-19T15:13:05Z",
+                    "open_issues": 83,
                     "owner": "frappe",
                     "repo": "raven",
-                    "stars": 821,
+                    "stars": 822,
                     "topics": [
                       "chat-application",
                       "frappe",
@@ -1062,13 +1062,13 @@
                   "description": "Frappe app to design print formats using interactive UI.",
                   "children": [],
                   "repo_info": {
-                    "archived": true,
+                    "archived": false,
                     "description": "Visual print designer for Frappe / ERPNext",
                     "homepage": null,
                     "id": 628849744,
                     "language": "JavaScript",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-13T14:46:06Z",
+                    "last_commit": "2026-10-19T11:26:37Z",
                     "open_issues": 151,
                     "owner": "frappe",
                     "repo": "print_designer",
@@ -1093,11 +1093,11 @@
                     "id": 298861997,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T15:10:39Z",
-                    "open_issues": 48,
+                    "last_commit": "2026-10-19T13:45:20Z",
+                    "open_issues": 33,
                     "owner": "frappe",
                     "repo": "wiki",
-                    "stars": 448,
+                    "stars": 449,
                     "topics": [
                       "documentation",
                       "frappe",
@@ -1176,7 +1176,7 @@
                     "open_issues": 2,
                     "owner": "ahmadpak",
                     "repo": "erpnext_quota",
-                    "stars": 104,
+                    "stars": 105,
                     "topics": [
                       "erpnext",
                       "erpnext-quota",
@@ -1222,7 +1222,7 @@
                     "open_issues": 5,
                     "owner": "Datahenge",
                     "repo": "btu",
-                    "stars": 65,
+                    "stars": 66,
                     "topics": [
                       "cron",
                       "erpnext",
@@ -1270,7 +1270,7 @@
                     "open_issues": 1,
                     "owner": "pibico",
                     "repo": "pibicut",
-                    "stars": 59,
+                    "stars": 60,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -1291,7 +1291,7 @@
                     "open_issues": 5,
                     "owner": "kid1194",
                     "repo": "frappe_alerts",
-                    "stars": 39,
+                    "stars": 40,
                     "topics": [
                       "alerts",
                       "alerts-manager",
@@ -1457,6 +1457,32 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Frappe ReST API Wrapper",
+                  "description": "Build custom ReST api's on top of Frappe.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Build custom ReST api's on top of Frappe",
+                    "homepage": null,
+                    "id": 338482385,
+                    "language": "Python",
+                    "license": "NOASSERTION",
+                    "last_commit": "2021-11-25T01:02:51Z",
+                    "open_issues": 1,
+                    "owner": "pifabs",
+                    "repo": "restipie",
+                    "stars": 22,
+                    "topics": [
+                      "erpnext",
+                      "frappe-framework",
+                      "middleware",
+                      "rest-api"
+                    ]
+                  },
+                  "first_seen": "2026-08-28T04:32:25.182Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "Enhanced Kanban View",
                   "description": "Frappe Kanban boards with Link field columns, validation dialogs, and automatic synchronization.",
                   "children": [],
@@ -1484,26 +1510,26 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Frappe ReST API Wrapper",
-                  "description": "Build custom ReST api's on top of Frappe.",
+                  "title": "Private Comment",
+                  "description": "App that allows controlling comment visibility for tagged user and user-groups with three modes: Private, Public & Mentioned",
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "Build custom ReST api's on top of Frappe",
+                    "description": "Frappe app that allows controlling comment visibility for tagged user and user-groups.",
                     "homepage": null,
-                    "id": 338482385,
+                    "id": 750730615,
                     "language": "Python",
-                    "license": "NOASSERTION",
-                    "last_commit": "2021-11-25T01:02:51Z",
-                    "open_issues": 1,
-                    "owner": "pifabs",
-                    "repo": "restipie",
-                    "stars": 21,
+                    "license": "AGPL-3.0",
+                    "last_commit": "2026-10-08T07:06:15Z",
+                    "open_issues": 6,
+                    "owner": "rtCamp",
+                    "repo": "frappe-comment-xt",
+                    "stars": 18,
                     "topics": [
                       "erpnext",
-                      "frappe-framework",
-                      "middleware",
-                      "rest-api"
+                      "frappe",
+                      "python",
+                      "tier-1"
                     ]
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -1535,32 +1561,6 @@
                       "frappe-framework",
                       "frappe-private-attachment",
                       "private-attachments"
-                    ]
-                  },
-                  "first_seen": "2026-08-28T04:32:25.182Z"
-                },
-                {
-                  "node_type": "item",
-                  "title": "Private Comment",
-                  "description": "App that allows controlling comment visibility for tagged user and user-groups with three modes: Private, Public & Mentioned",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Frappe app that allows controlling comment visibility for tagged user and user-groups.",
-                    "homepage": null,
-                    "id": 750730615,
-                    "language": "Python",
-                    "license": "AGPL-3.0",
-                    "last_commit": "2026-10-08T07:06:15Z",
-                    "open_issues": 6,
-                    "owner": "rtCamp",
-                    "repo": "frappe-comment-xt",
-                    "stars": 17,
-                    "topics": [
-                      "erpnext",
-                      "frappe",
-                      "python",
-                      "tier-1"
                     ]
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -1604,7 +1604,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-10T04:44:06Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "agatho-daemon",
                     "repo": "crispy_print",
                     "stars": 16,
@@ -1862,8 +1862,8 @@
                     "id": 1239548961,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-18T18:21:50Z",
-                    "open_issues": 67,
+                    "last_commit": "2026-10-19T18:53:00Z",
+                    "open_issues": 50,
                     "owner": "aerele",
                     "repo": "jarvis",
                     "stars": 106,
@@ -1949,7 +1949,7 @@
                     "language": "Python",
                     "license": "AGPL-3.0",
                     "last_commit": "2026-10-17T18:31:42Z",
-                    "open_issues": 22,
+                    "open_issues": 23,
                     "owner": "alyf-de",
                     "repo": "ask_alyf",
                     "stars": 40,
@@ -2043,7 +2043,7 @@
                     "open_issues": 0,
                     "owner": "roquegv",
                     "repo": "Silent-Print-ERPNext",
-                    "stars": 64,
+                    "stars": 65,
                     "topics": [
                       "erpnext",
                       "frappe",
@@ -2179,7 +2179,7 @@
                     "open_issues": 6,
                     "owner": "MohammedNoureldin",
                     "repo": "frappe-oidc-extended",
-                    "stars": 34,
+                    "stars": 35,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -2293,7 +2293,7 @@
                     "open_issues": 1,
                     "owner": "mymi14s",
                     "repo": "language_translator",
-                    "stars": 13,
+                    "stars": 14,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -2543,7 +2543,7 @@
                     "open_issues": 13,
                     "owner": "yrestom",
                     "repo": "erpnext_telegram",
-                    "stars": 150,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -2585,7 +2585,7 @@
                     "open_issues": 8,
                     "owner": "frappe",
                     "repo": "waba_integration",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -2895,10 +2895,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-08T13:22:55Z",
-                    "open_issues": 143,
+                    "open_issues": 146,
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
-                    "stars": 209,
+                    "stars": 210,
                     "topics": [
                       "ecommerce",
                       "erpnext",
@@ -2922,10 +2922,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-08T13:22:55Z",
-                    "open_issues": 143,
+                    "open_issues": 146,
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
-                    "stars": 209,
+                    "stars": 210,
                     "topics": [
                       "ecommerce",
                       "erpnext",
@@ -2949,10 +2949,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-08T13:22:55Z",
-                    "open_issues": 143,
+                    "open_issues": 146,
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
-                    "stars": 209,
+                    "stars": 210,
                     "topics": [
                       "ecommerce",
                       "erpnext",
@@ -2976,10 +2976,10 @@
                     "language": "Python",
                     "license": "GPL-3.0",
                     "last_commit": "2026-10-08T13:22:55Z",
-                    "open_issues": 143,
+                    "open_issues": 146,
                     "owner": "frappe",
                     "repo": "ecommerce_integrations",
-                    "stars": 209,
+                    "stars": 210,
                     "topics": [
                       "ecommerce",
                       "erpnext",
@@ -3006,7 +3006,7 @@
                     "open_issues": 11,
                     "owner": "frappe",
                     "repo": "erpnext-shipping",
-                    "stars": 150,
+                    "stars": 151,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -3027,7 +3027,7 @@
                     "open_issues": 39,
                     "owner": "libracore",
                     "repo": "WooCommerceConnector",
-                    "stars": 113,
+                    "stars": 114,
                     "topics": [
                       "erpnext",
                       "woocommerce"
@@ -3079,7 +3079,7 @@
                     "open_issues": 43,
                     "owner": "zerodha",
                     "repo": "frappe-attachments-s3",
-                    "stars": 171,
+                    "stars": 172,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -3323,7 +3323,7 @@
                     "open_issues": 4,
                     "owner": "pipech",
                     "repo": "frappe-plotly-dash",
-                    "stars": 30,
+                    "stars": 31,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -3445,7 +3445,7 @@
                     "open_issues": 2,
                     "owner": "Aptitudetech",
                     "repo": "frappe-m365",
-                    "stars": 14,
+                    "stars": 15,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -3463,7 +3463,7 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-14T06:38:48Z",
-                    "open_issues": 0,
+                    "open_issues": 1,
                     "owner": "Bizmap-Technologies-Pvt-Ltd",
                     "repo": "frappe_microsoft365",
                     "stars": 8,
@@ -3553,10 +3553,10 @@
                     "id": 816880761,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T05:38:49Z",
-                    "open_issues": 2,
+                    "last_commit": "2026-10-19T12:20:00Z",
+                    "open_issues": 4,
                     "owner": "Avunu",
-                    "repo": "postgrid_integration",
+                    "repo": "postgrid_direct_mail",
                     "stars": 3,
                     "topics": []
                   },
@@ -3585,7 +3585,7 @@
                     "open_issues": 4,
                     "owner": "Midocean-Technologies",
                     "repo": "business_theme_v14",
-                    "stars": 106,
+                    "stars": 107,
                     "topics": [
                       "erpnext-application",
                       "theme"
@@ -3651,7 +3651,7 @@
                     "open_issues": 3,
                     "owner": "Sudhanshu-Badole",
                     "repo": "Portal_Theme",
-                    "stars": 33,
+                    "stars": 34,
                     "topics": [
                       "backend",
                       "erpnext",
@@ -3789,7 +3789,7 @@
                     "open_issues": 2,
                     "owner": "Infintrix-Technologies",
                     "repo": "infintrix_theme",
-                    "stars": 17,
+                    "stars": 18,
                     "topics": [
                       "erpnext-customization",
                       "frappe",
@@ -3861,8 +3861,8 @@
                     "id": 442197315,
                     "language": "Python",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-15T10:52:19Z",
-                    "open_issues": 134,
+                    "last_commit": "2026-10-19T22:54:10Z",
+                    "open_issues": 133,
                     "owner": "resilient-tech",
                     "repo": "india-compliance",
                     "stars": 275,
@@ -3931,7 +3931,7 @@
                     "open_issues": 11,
                     "owner": "alyf-de",
                     "repo": "erpnext_germany",
-                    "stars": 92,
+                    "stars": 93,
                     "topics": [
                       "business",
                       "erpnext",
@@ -4005,7 +4005,7 @@
                     "id": 906834683,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T17:18:00Z",
+                    "last_commit": "2026-10-19T14:15:27Z",
                     "open_issues": 16,
                     "owner": "ecosoft-frappe",
                     "repo": "erpnext_thailand",
@@ -4026,7 +4026,7 @@
                     "id": 683338269,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-13T10:02:05Z",
+                    "last_commit": "2026-10-19T13:38:15Z",
                     "open_issues": 0,
                     "owner": "scopen-coop",
                     "repo": "erpnext_france",
@@ -4257,8 +4257,8 @@
                     "id": 765253077,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-17T08:13:01Z",
-                    "open_issues": 3,
+                    "last_commit": "2026-10-19T20:56:13Z",
+                    "open_issues": 4,
                     "owner": "Solede-SA",
                     "repo": "italian_invoice",
                     "stars": 7,
@@ -4376,7 +4376,7 @@
                     "id": 358895549,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-18T18:17:05Z",
+                    "last_commit": "2026-10-19T05:47:00Z",
                     "open_issues": 21,
                     "owner": "bhavesh95863",
                     "repo": "whitelabel",
@@ -4401,7 +4401,7 @@
                     "open_issues": 14,
                     "owner": "alyf-de",
                     "repo": "erpnext_pdf-on-submit",
-                    "stars": 113,
+                    "stars": 114,
                     "topics": [
                       "automation",
                       "business",
@@ -4539,7 +4539,7 @@
                     "open_issues": 0,
                     "owner": "pstuhlmueller",
                     "repo": "workspaceperms",
-                    "stars": 28,
+                    "stars": 29,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T04:32:25.182Z"
@@ -4560,7 +4560,7 @@
                     "open_issues": 6,
                     "owner": "Monogramm",
                     "repo": "recod_erpnext_design",
-                    "stars": 27,
+                    "stars": 28,
                     "topics": [
                       "css",
                       "design",
@@ -4754,11 +4754,11 @@
                 "id": 448930945,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-18T09:55:49Z",
-                "open_issues": 211,
+                "last_commit": "2026-10-19T18:40:59Z",
+                "open_issues": 210,
                 "owner": "frappe",
                 "repo": "frappe-ui",
-                "stars": 1072,
+                "stars": 1077,
                 "topics": [
                   "frappe",
                   "ui-components",
@@ -4779,11 +4779,11 @@
                 "id": 664842578,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T01:14:05Z",
-                "open_issues": 68,
+                "last_commit": "2026-10-19T01:14:11Z",
+                "open_issues": 69,
                 "owner": "rtCamp",
                 "repo": "Frappe-Manager",
-                "stars": 427,
+                "stars": 428,
                 "topics": [
                   "production",
                   "tier-1"
@@ -4807,7 +4807,7 @@
                 "open_issues": 9,
                 "owner": "NagariaHussain",
                 "repo": "doppio",
-                "stars": 365,
+                "stars": 366,
                 "topics": [
                   "frappe",
                   "frappe-framework",
@@ -5033,7 +5033,7 @@
                 "open_issues": 0,
                 "owner": "The-Commit-Company",
                 "repo": "frappe_er_generator",
-                "stars": 36,
+                "stars": 37,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:32:25.182Z"
@@ -5263,7 +5263,7 @@
                 "id": 520248065,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-17T21:10:28Z",
+                "last_commit": "2026-10-19T23:50:57Z",
                 "open_issues": 2,
                 "owner": "robproject",
                 "repo": "fsjd",
@@ -5284,8 +5284,8 @@
                 "id": 1211170300,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-18T16:47:29Z",
-                "open_issues": 4,
+                "last_commit": "2026-10-19T18:29:33Z",
+                "open_issues": 5,
                 "owner": "aerele",
                 "repo": "optimus",
                 "stars": 10,
@@ -5678,7 +5678,7 @@
                     "open_issues": 6,
                     "owner": "NagariaHussain",
                     "repo": "doppio_bot",
-                    "stars": 75,
+                    "stars": 76,
                     "topics": [
                       "chakra-ui",
                       "frappe",
@@ -5842,7 +5842,7 @@
                     "open_issues": 103,
                     "owner": "tridz-dev",
                     "repo": "huf",
-                    "stars": 125,
+                    "stars": 126,
                     "topics": [
                       "agentic-ai",
                       "agentic-workflow",
@@ -6056,11 +6056,11 @@
                 "id": 99224194,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-10-16T15:32:40Z",
-                "open_issues": 17,
+                "last_commit": "2026-10-19T09:11:03Z",
+                "open_issues": 15,
                 "owner": "frappe",
                 "repo": "frappe_docker",
-                "stars": 2595,
+                "stars": 2598,
                 "topics": [
                   "apps",
                   "business-software",
@@ -6120,7 +6120,7 @@
                 "open_issues": 1,
                 "owner": "martinhbramwell",
                 "repo": "ERPNextFailOver",
-                "stars": 33,
+                "stars": 34,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:32:25.182Z"
@@ -6238,7 +6238,7 @@
                 "open_issues": 2,
                 "owner": "mymi14s",
                 "repo": "frappevue_adminlte",
-                "stars": 63,
+                "stars": 64,
                 "topics": []
               },
               "first_seen": "2026-08-28T04:32:25.182Z"
@@ -6264,8 +6264,8 @@
                     "id": 226800899,
                     "language": "Python",
                     "license": "AGPL-3.0",
-                    "last_commit": "2026-10-16T15:31:13Z",
-                    "open_issues": 791,
+                    "last_commit": "2026-10-19T12:51:28Z",
+                    "open_issues": 794,
                     "owner": "frappe",
                     "repo": "press",
                     "stars": 573,
@@ -6337,7 +6337,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T22:37:59.306Z",
+    "last_updated": "2026-10-19T23:57:47.300Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome things related to the Frappe Framework",
@@ -6349,7 +6349,7 @@
       "open_issues": 5,
       "owner": "gavindsouza",
       "repo": "awesome-frappe",
-      "stars": 799,
+      "stars": 801,
       "topics": [
         "app-listing",
         "awesome-list",
