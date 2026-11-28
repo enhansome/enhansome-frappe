@@ -8,7 +8,7 @@
   <img width="200" src="https://raw.githubusercontent.com/frappe/frappe/refs/heads/develop/.github/frappe-framework-logo.svg" alt="Frappe logo" style="padding-right: 20px; padding-left: 20px;">
 </div>
 
-Inspired by [awesome-django](https://github.com/wsvincent/awesome-django) ⭐ 11,311 | 🐛 7 | 🌐 Python | 📅 2026-10-26.
+Inspired by [awesome-django](https://github.com/wsvincent/awesome-django) ⭐ 11,312 | 🐛 7 | 🌐 Python | 📅 2026-10-26.
 
 > **Disclaimer:** Projects listed may be third-party community packages. They may not vetted nor endorsed by the contributors. Check each project's compatibility information before using. Use them at your own volition.
 
@@ -55,18 +55,18 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 
 #### Business Apps
 
-* [CRM](https://github.com/frappe/crm) ⭐ 4,043 | 🐛 328 | 🌐 Vue | 📅 2026-11-26 - Fully featured, open source CRM.
-* [School](https://github.com/frappe/lms) ⭐ 3,457 | 🐛 94 | 🌐 Python | 📅 2026-11-26 - The Learning Management System (LMS) that powers [mon.school](https://mon.school) & [frappe.school](https://frappe.school).
-* [Frappe Insights](https://github.com/frappe/insights) ⭐ 1,051 | 🐛 148 | 🌐 Python | 📅 2026-11-27 -  Free and Open Source Data Analytics Tool for your Frappe Apps
+* [CRM](https://github.com/frappe/crm) ⭐ 4,047 | 🐛 332 | 🌐 Vue | 📅 2026-11-27 - Fully featured, open source CRM.
+* [School](https://github.com/frappe/lms) ⭐ 3,457 | 🐛 98 | 🌐 Python | 📅 2026-11-27 - The Learning Management System (LMS) that powers [mon.school](https://mon.school) & [frappe.school](https://frappe.school).
+* [Frappe Insights](https://github.com/frappe/insights) ⭐ 1,052 | 🐛 150 | 🌐 Python | 📅 2026-11-27 -  Free and Open Source Data Analytics Tool for your Frappe Apps
 * [Education](https://github.com/frappe/education) ⭐ 718 | 🐛 169 | 🌐 Python | 📅 2026-11-23 - Open source education / school management system.
-* [Healthcare](https://github.com/frappe/healthcare) ⭐ 564 | 🐛 80 | 🌐 Python | 📅 2026-11-27 - An open source management system crafted for the medical industry.
-* [Gameplan](https://github.com/frappe/gameplan/) ⭐ 533 | 🐛 93 | 🌐 Python | 📅 2026-11-25 - Delightful, open-source, work communication tool for remote teams.
-* [URY - Open Source Restaurant Management System](https://github.com/ury-erp/ury) ⭐ 429 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-25 - URY is an open-source ERP designed to simplify and streamline restaurant operations, built over ERPNext.
-* [Lending](https://github.com/frappe/lending) ⭐ 372 | 🐛 23 | 🌐 Python | 📅 2026-11-26 - Open Source Lending software.
-* [Webshop](https://github.com/frappe/webshop) ⭐ 216 | 🐛 145 | 🌐 Python | 📅 2026-11-26 - eCommerce Platform for ERPNext.
+* [Healthcare](https://github.com/frappe/healthcare) ⭐ 563 | 🐛 80 | 🌐 Python | 📅 2026-11-28 - An open source management system crafted for the medical industry.
+* [Gameplan](https://github.com/frappe/gameplan/) ⭐ 533 | 🐛 94 | 🌐 Python | 📅 2026-11-27 - Delightful, open-source, work communication tool for remote teams.
+* [URY - Open Source Restaurant Management System](https://github.com/ury-erp/ury) ⭐ 429 | 🐛 61 | 🌐 TypeScript | 📅 2026-11-27 - URY is an open-source ERP designed to simplify and streamline restaurant operations, built over ERPNext.
+* [Lending](https://github.com/frappe/lending) ⭐ 372 | 🐛 24 | 🌐 Python | 📅 2026-11-27 - Open Source Lending software.
+* [Webshop](https://github.com/frappe/webshop) ⭐ 216 | 🐛 146 | 🌐 Python | 📅 2026-11-26 - eCommerce Platform for ERPNext.
 * [Mail](https://github.com/frappe/mail) ⚠️ Archived - Frappe Mail.
-* [Restaurant](https://github.com/quantumbitcore/erpnext-restaurant) ⭐ 208 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-29 - Restaurant App for ERPNext.
-* [Payments](https://github.com/frappe/payments) ⭐ 184 | 🐛 122 | 🌐 Python | 📅 2026-11-25 - A payments app for frappe.
+* [Restaurant](https://github.com/quantumbitcore/erpnext-restaurant) ⭐ 209 | 🐛 16 | 🌐 JavaScript | 📅 2026-01-29 - Restaurant App for ERPNext.
+* [Payments](https://github.com/frappe/payments) ⭐ 184 | 🐛 122 | 🌐 Python | 📅 2026-11-27 - A payments app for frappe.
 * [Cargo Management](https://github.com/AgileShift/cargo_management) ⭐ 132 | 🐛 3 | 🌐 Python | 📅 2026-11-21 - Package Management App for ERPNext.
 * [Clefincode Chat](https://github.com/clefincode/clefincode_chat) ⭐ 127 | 🐛 5 | 🌐 Python | 📅 2026-11-22 - ERPNext/Frappe Business Chat: A self-hosted communication solution.
 * [ALYF Banking](https://github.com/alyf-de/banking) ⭐ 116 | 🐛 36 | 🌐 Python | 📅 2026-11-26 - ALYF Banking is a seamless solution to connect and reconcile your bank accounts with ERPNext. It supports a robust Bank Integration (via EBICS) and a modern Bank Reconciliation tool ⚡
@@ -94,7 +94,7 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 
 * [TailPOS](https://github.com/bailabs/tailpos) ⭐ 674 | 🐛 25 | 🌐 JavaScript | 📅 2022-10-12 - Offline First Open Source POS for ERPNext.
 * [POS Awesome](https://github.com/yrestom/POS-Awesome) ⭐ 524 | 🐛 108 | 🌐 Vue | 📅 2024-08-12 - An open-source Point of Sale for ERPNext using Vue.js and Vuetify.
-* [POSNext](https://github.com/BrainWise-DEV/POSNext.git) ⭐ 179 | 🐛 30 | 🌐 Vue | 📅 2026-11-26 - POSNext is a modern, open-source Point of Sale for ERPNext, offering fast billing, multiple payment methods, smart discounts, offline mode, and a clean touchscreen-friendly UI—built to handle real retail operations with speed and reliability.
+* [POSNext](https://github.com/BrainWise-DEV/POSNext.git) ⭐ 179 | 🐛 30 | 🌐 Vue | 📅 2026-11-27 - POSNext is a modern, open-source Point of Sale for ERPNext, offering fast billing, multiple payment methods, smart discounts, offline mode, and a clean touchscreen-friendly UI—built to handle real retail operations with speed and reliability.
 * [POS-Awesome-V15](https://github.com/defendicon/POS-Awesome-V15) ⭐ 121 | 🐛 10 | 🌐 TypeScript | 📅 2026-11-25 - the enhance version with more bugs fixed and multiple currency add thanks to @defendicon
 * [X POS](https://github.com/kodlyft/xpos.git) ⭐ 56 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-22 - X POS is a feature-rich, offline-first Point of Sale application built on Frappe and ERPNext. It delivers a fast, keyboard-driven, and fully offline-capable POS experience for retail, hospitality, and service businesses — deployable as a web app, PWA, or Electron desktop application.
 * [ERPNext POS Hardware Integrations](https://github.com/aisenyi/pasigono) ⭐ 50 | 🐛 3 | 🌐 JavaScript | 📅 2023-02-02 - Weigh scale integration, Stripe Terminal integration, and Raw printing via QZ Tray
@@ -102,9 +102,9 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 
 #### Utility Apps
 
-* [Raven](https://github.com/The-Commit-Company/Raven) ⭐ 855 | 🐛 57 | 🌐 TypeScript | 📅 2026-11-26 - Simple, open source team messaging platform built for Frappe.
+* [Raven](https://github.com/The-Commit-Company/Raven) ⭐ 855 | 🐛 62 | 🌐 TypeScript | 📅 2026-11-27 - Simple, open source team messaging platform built for Frappe.
 * [Print Designer](https://github.com/frappe/print_designer) ⭐ 468 | 🐛 151 | 🌐 JavaScript | 📅 2026-11-16 - Frappe app to design print formats using interactive UI.
-* [Wiki](https://github.com/frappe/wiki) ⭐ 463 | 🐛 16 | 🌐 Python | 📅 2026-11-27 - Wiki for serving dynamic data along with a built-in review system.
+* [Wiki](https://github.com/frappe/wiki) ⭐ 463 | 🐛 18 | 🌐 Python | 📅 2026-11-27 - Wiki for serving dynamic data along with a built-in review system.
 * [Chat](https://github.com/frappe/chat) ⚠️ Archived - Modern chat for your Frappe deployments.
 * [ERPNext OCR](https://github.com/Monogramm/erpnext_ocr) ⭐ 109 | 🐛 14 | 🌐 Python | 📅 2026-02-17 - Optical Character Recognition using Tesseract within Frappe.
 * [ERPNext Quota](https://github.com/ahmadpak/erpnext_quota) ⭐ 105 | 🐛 2 | 🌐 Python | 📅 2023-05-29 - App to manage ERPNext Site, User, Company and Space limitations.
@@ -118,9 +118,9 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 * [Event Streaming](https://github.com/frappe/event_streaming) ⚠️ Archived - Event Streaming for frappe.
 * [Frappe System Monitor](https://github.com/mymi14s/frappe_system_monitor) ⭐ 29 | 🐛 2 | 🌐 Python | 📅 2024-04-30 - Web interface for webserver running processes and system utilization (RAM, CPU, Disk)
 * [Ghost](https://github.com/muneeb141/ghost) ⭐ 29 | 🐛 0 | 🌐 Python | 📅 2026-10-21 -  Headless identity and OTP authentication engine for Frappe. Centralizes Guest Sessions, Secure Login, and seamless Ghost-to-Real User conversion for building modern Web & Mobile apps.
-* [XcelForm](https://github.com/jezlan/xcelform) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-11-26 - A powerful app for Exporting Doctype data to Excel with custom formats in Frappe/ERPNext.
+* [XcelForm](https://github.com/jezlan/xcelform) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-11-27 - A powerful app for Exporting Doctype data to Excel with custom formats in Frappe/ERPNext.
 * [Frappe ReST API Wrapper](https://github.com/pifabs/restipie) ⭐ 22 | 🐛 1 | 🌐 Python | 📅 2021-11-25 - Build custom ReST api's on top of Frappe.
-* [Enhanced Kanban View](https://github.com/ibrahim317/enhanced_kanban_view) ⭐ 20 | 🐛 2 | 🌐 JavaScript | 📅 2026-07-03 - Frappe Kanban boards with Link field columns, validation dialogs, and automatic synchronization.
+* [Enhanced Kanban View](https://github.com/ibrahim317/enhanced_kanban_view) ⭐ 20 | 🐛 2 | 🌐 JavaScript | 📅 2026-11-27 - Frappe Kanban boards with Link field columns, validation dialogs, and automatic synchronization.
 * [Private Comment](https://github.com/rtCamp/frappe-private-comment.git) ⭐ 18 | 🐛 6 | 🌐 Python | 📅 2026-11-10 - App that allows controlling comment visibility for tagged user and user-groups with three modes: Private, Public & Mentioned
 * [Crispy Print](https://github.com/agatho-daemon/crispy_print) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-11-21 - Typst-powered printing and report formatting engine for Frappe with a visual builder and code-level control for consistent, production-quality PDFs.
 * [Frappe Private Attachments](https://github.com/shridarpatil/frappe_private_attachments) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2022-01-25 - Make all frappe attachments as private by default.
@@ -141,8 +141,8 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 
 #### AI & Assistants
 
-* [Jarvis](https://github.com/aerele/jarvis) ⭐ 112 | 🐛 71 | 🌐 Python | 📅 2026-11-26 - An AI teammate inside ERPNext. Ask about your business data in plain English, automate document processing with a human in the loop and save your team's best practices as reusable skills. It runs under each user's own permissions and can connect to your existing AI chat subscription.
-* [changAI](https://github.com/ERPGulf/changAI) ⭐ 84 | 🐛 7 | 🌐 Python | 📅 2026-11-15 - AI-powered assistant for ERPNext that lets users ask business questions in plain English and get instant answers.
+* [Jarvis](https://github.com/aerele/jarvis) ⭐ 112 | 🐛 79 | 🌐 Python | 📅 2026-11-28 - An AI teammate inside ERPNext. Ask about your business data in plain English, automate document processing with a human in the loop and save your team's best practices as reusable skills. It runs under each user's own permissions and can connect to your existing AI chat subscription.
+* [changAI](https://github.com/ERPGulf/changAI) ⭐ 84 | 🐛 7 | 🌐 Python | 📅 2026-11-27 - AI-powered assistant for ERPNext that lets users ask business questions in plain English and get instant answers.
 * [Kai](https://github.com/KorucuTech/kai) ⭐ 52 | 🐛 5 | 🌐 Python | 📅 2024-04-30 - Custom Frappe App to integrate AI Agents as DocTypes using CrewAI & Frappe Framework.
 * [Ask ALYF](https://github.com/alyf-de/ask_alyf) ⭐ 45 | 🐛 18 | 🌐 Python | 📅 2026-11-26 - Ask ALYF adds an assistant to ERPNext so users can ask questions, find information, and get help working with documents without leaving the Desk.
 * [ERPNext Copilot](https://github.com/byt3crafter/erpnext-copilot) ⭐ 22 | 🐛 4 | 🌐 Python | 📅 2026-04-11 - AI-powered assistant for ERPNext that lets users query data, perform actions, generate charts, and schedule reports in plain English.
@@ -159,7 +159,7 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 * [Active User Lister](https://github.com/kid1194/frappe-active-users) ⭐ 45 | 🐛 1 | 🌐 Python | 📅 2023-10-23 - App that displays a list of current active users.
 * [OIDC Extended](https://github.com/MohammedNoureldin/frappe-oidc-extended) ⭐ 35 | 🐛 6 | 🌐 Python | 📅 2026-03-22 - An extension to the ERPNext Social Login authentication method (OIDC) that incorporates new features designed to meet the needs of enterprises.
 * [Desk Navbar Extended](https://github.com/gavindsouza/desk-navbar-extended) ⭐ 32 | 🐛 0 | 🌐 Python | 📅 2024-03-26 - Frappe's Navbar, slightly salted.
-* [Jodit HTML Editor](https://github.com/ashish-greycube/jodit_html_editor) ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2024-04-10 - Replace Quill Text Editor With [Jodit](https://github.com/xdan/jodit) ⭐ 1,972 | 🐛 17 | 🌐 JavaScript | 📅 2026-11-21 HTML Editor on WebPage and WebForm for Frappe/ERPNext Version 11 & 12.
+* [Jodit HTML Editor](https://github.com/ashish-greycube/jodit_html_editor) ⭐ 24 | 🐛 5 | 🌐 Python | 📅 2024-04-10 - Replace Quill Text Editor With [Jodit](https://github.com/xdan/jodit) ⭐ 1,972 | 🐛 18 | 🌐 JavaScript | 📅 2026-11-28 HTML Editor on WebPage and WebForm for Frappe/ERPNext Version 11 & 12.
 * [Export Setting](https://github.com/zaid2229/Export-Settings.git) ⭐ 18 | 🐛 0 | 🌐 JavaScript | 📅 2025-02-21 - This app allows you to predefine the fields you want to export from any given doctype in Frappe.
 * [Select Control extended](https://github.com/kid1194/frappe-better-select-control) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2023-08-14 - Plugin that adds the support of options group to the select control.
 * [Language Translator](https://github.com/mymi14s/language_translator) ⭐ 14 | 🐛 1 | 🌐 Python | 📅 2021-10-09 - Automatic language translator on Frappe Desk and website.
@@ -200,13 +200,13 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 * [Shopify Integration](https://github.com/frappe/ecommerce_integrations) ⭐ 219 | 🐛 144 | 🌐 Python | 📅 2026-11-26 - Shopify Integration for ERPNext.
 * [Unicommerce Integration](https://github.com/frappe/ecommerce_integrations) ⭐ 219 | 🐛 144 | 🌐 Python | 📅 2026-11-26 - Unicommerce Integration for ERPNext.
 * [Zenoti Integration](https://github.com/frappe/ecommerce_integrations) ⭐ 219 | 🐛 144 | 🌐 Python | 📅 2026-11-26 - Zenoti Integration for ERPNext.
-* [ERPNext Shipping](https://github.com/frappe/erpnext-shipping) ⭐ 153 | 🐛 13 | 🌐 Python | 📅 2026-11-26 - Shipping Integration for ERPNext with Packlink, LetMeShip & SendCloud.
+* [ERPNext Shipping](https://github.com/frappe/erpnext-shipping) ⭐ 153 | 🐛 14 | 🌐 Python | 📅 2026-11-26 - Shipping Integration for ERPNext with Packlink, LetMeShip & SendCloud.
 * [WooCommerceConnector](https://github.com/libracore/WooCommerceConnector) ⭐ 116 | 🐛 39 | 🌐 Python | 📅 2026-06-08 - Integration App for ERPNext to connect to WooCommerce.
 * [Shipstation Integration](https://github.com/ParsimonyGit/shipstation_integration) ⭐ 15 | 🐛 5 | 🌐 Python | 📅 2026-08-23 - Shipstation Integration for ERPNext.
 
 #### Storage & File Sync
 
-* [S3 Attachments](https://github.com/zerodha/frappe-attachments-s3) ⭐ 172 | 🐛 44 | 🌐 Python | 📅 2026-03-11 - Plug an S3 bucket for storing and fetching files in Frappe.
+* [S3 Attachments](https://github.com/zerodha/frappe-attachments-s3) ⭐ 173 | 🐛 44 | 🌐 Python | 📅 2026-03-11 - Plug an S3 bucket for storing and fetching files in Frappe.
 * [DFP External Storage](https://github.com/developmentforpeople/dfp_external_storage) ⭐ 64 | 🐛 12 | 🌐 Python | 📅 2025-12-31 - S3 compatible external storages per folder management app for Frappe and ERPNext.
 * [Nextcloud Integration](https://github.com/frappe/nextcloud-integration) ⚠️ Archived - Nextcloud + Frappe = ❤️
 * [Pibiapp](https://github.com/doloresjuliana/pibiapp) ⭐ 42 | 🐛 0 | 🌐 Python | 📅 2023-03-31 - Connect with Nextcloud to store the attachments on your Nextcloud server, integrate with external data from Excel, CSV, JSON or XML files, and view Redash dashboards in Frappe.
@@ -219,7 +219,7 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 * [DATEV Integration](https://github.com/alyf-de/erpnext_datev) ⭐ 53 | 🐛 4 | 🌐 Python | 📅 2026-10-04 - Integration between ERPNext and DATEV.
 * [Metabase Integration](https://github.com/pipech/frappe-metabase) ⭐ 48 | 🐛 2 | 🌐 Python | 📅 2023-11-04 - Access your Metabase instance from Desk.
 * [Meta Integration](https://github.com/efeone/frappe_meta_integration) ⭐ 46 | 🐛 0 | 🌐 Python | 📅 2024-01-17 - Meta Cloud API Integration for Frappe.
-* [Dash Integration](https://github.com/pipech/frappe-plotly-dash) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2024-02-02 - Build analytical web apps through the Desk with @plotly's [Dash](https://github.com/plotly/dash) ⭐ 24,507 | 🐛 403 | 🌐 Python | 📅 2026-11-26.
+* [Dash Integration](https://github.com/pipech/frappe-plotly-dash) ⭐ 31 | 🐛 4 | 🌐 Python | 📅 2024-02-02 - Build analytical web apps through the Desk with @plotly's [Dash](https://github.com/plotly/dash) ⭐ 24,510 | 🐛 409 | 🌐 Python | 📅 2026-11-27.
 * [Frepple Integration](https://github.com/msf4-0/ERPNext-Frepple-Integration) ⭐ 30 | 🐛 2 | 🌐 Python | 📅 2022-02-21 - Frepple Production Scheduling Tool.
 * [Mautic Integration](https://github.com/dokos-io/mautic) ⚠️ Archived - Mautic Integration for ERPNext.
 * [PrintNode Integration](https://github.com/techmaxsolucoes/printnode-integration) ⚠️ Archived - Smart Printing from Frappe using Print Node API.
@@ -228,7 +228,7 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 * [Frappe Microsoft 365](https://github.com/Bizmap-Technologies-Pvt-Ltd/frappe_microsoft365) ⭐ 12 | 🐛 9 | 🌐 Python | 📅 2026-11-25 - Two-way Outlook calendar sync, Teams meetings created from a Frappe Event, meeting transcripts and recordings, Outlook mail over OAuth, and sign in with Microsoft. Each user authorises their own calendar. Works on Frappe v15 and v16.
 * [EWB API Integration](https://github.com/aerele/ewb_api_integration) ⭐ 6 | 🐛 1 | 🌐 Python | 📅 2025-08-04 - Implementing E-WayBill API integration for India.
 * [FC Site Manager](https://github.com/wahni-green/fc_site_manager) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-11-12 - App for partners managing multiple Frappe Cloud sites — single-click login to client sites without passwords, and periodic rotation/disabling of user accounts across them.
-* [PostGrid Integration](https://github.com/Avunu/postgrid_integration) ⭐ 3 | 🐛 2 | 🌐 Python | 📅 2026-11-23 - Direct Mail Documents within Frappe via PostGrid Print & Mail API
+* [PostGrid Integration](https://github.com/Avunu/postgrid_integration) ⭐ 3 | 🐛 4 | 🌐 Python | 📅 2026-11-27 - Direct Mail Documents within Frappe via PostGrid Print & Mail API
 * [DocuSign Integration](https://cloud.frappe.io/marketplace/apps/dsc) - DocuSign integration for Frappe Apps.
 
 #### Themes
@@ -248,13 +248,13 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 
 #### Regional Apps
 
-* [India Compliance](https://github.com/resilient-tech/india-compliance) ⭐ 290 | 🐛 157 | 🌐 Python | 📅 2026-11-26 - Simple, yet powerful compliance solutions for Indian businesses.
+* [India Compliance](https://github.com/resilient-tech/india-compliance) ⭐ 290 | 🐛 160 | 🌐 Python | 📅 2026-11-27 - Simple, yet powerful compliance solutions for Indian businesses.
 * [Nepal Compliance](https://github.com/yarsa/nepal-compliance) ⭐ 181 | 🐛 6 | 🌐 Python | 📅 2026-11-01 - Open source ERP for Nepal with HR, Payroll & Accounting compliance.
-* [ERPNext Germany](https://github.com/alyf-de/erpnext_germany) ⭐ 99 | 🐛 9 | 🌐 Python | 📅 2026-11-25 - Regional code for Germany, built on top of ERPNext.
+* [ERPNext Germany](https://github.com/alyf-de/erpnext_germany) ⭐ 99 | 🐛 11 | 🌐 Python | 📅 2026-11-27 - Regional code for Germany, built on top of ERPNext.
 * [KSA](https://github.com/lavaloon-eg/ksa_compliance) ⭐ 96 | 🐛 44 | 🌐 Python | 📅 2026-11-18 - Regional Compliance for the Kingdom of Saudi Arabia
 * [ERPNext Thailand](https://github.com/ecosoft-frappe/erpnext_thailand) ⭐ 31 | 🐛 3 | 🌐 Python | 📅 2026-10-30 - Thailand Taxation (VAT, WHT), Thai Billing Process, Get Address from Tax ID, Bank of Thailand Exchange Rate and more... for ERPNext.
 * [CSF\_TZ](https://github.com/aakvatech/CSF_TZ) ⭐ 28 | 🐛 2 | 🌐 Python | 📅 2025-12-12 - Regional App for Tanzania.
-* [ERPNext France](https://github.com/scopen-coop/erpnext_france.git) ⭐ 27 | 🐛 0 | 🌐 Python | 📅 2026-11-09 - Regional code for France, built on top of ERPNext.
+* [ERPNext France](https://github.com/scopen-coop/erpnext_france.git) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2026-11-27 - Regional code for France, built on top of ERPNext.
 * [Kenya Compliance (via Slade)](https://github.com/navariltd/kenya-compliance-via-slade) ⭐ 26 | 🐛 16 | 🌐 Python | 📅 2026-11-20 - This application integrates ERPNext with Kenya Revenue Authority's (KRA) eTIMS through the Virtual Sales Control Unit (VSCU), facilitating seamless tax compliance and data synchronization.
 * [GSTR 2B Reconciler](https://github.com/aerele/reconciler) ⭐ 18 | 🐛 7 | 🌐 Python | 📅 2026-09-09 - Reconciliation tool for GSTR 2B and Purchase Register.
 * [UAE E-Invoicing Integration](https://github.com/ERPGulf/uae_erpgulf) ⭐ 17 | 🐛 1 | 🌐 Python | 📅 2026-10-27 - UAE FTA e-invoicing implementation for ERPNext with UBL 2.1 compliant XML generation, VAT validation, and clearance-ready workflows.
@@ -263,7 +263,7 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 * [ERPNext TSE](https://github.com/Rocket-Quack/erpnext_tse) ⭐ 12 | 🐛 4 | 🌐 Python | 📅 2026-04-28 - This app extends ERPNext by connecting cash registers to a TSE and forms the basis for legally compliant cash register transactions in Germany (KassenSichV).
 * [South African Localization for ERPNext](https://github.com/EPIUSECX/cohenix_local_za) ⭐ 12 | 🐛 0 | 🌐 Python | 📅 2026-08-01 - Comprehensive South African localization with statutory compliance, tax regulations, payroll localization, and financial reporting.
 * [Pakistan Workspace](https://github.com/ParaLogicTech/erpnext_pk) ⭐ 10 | 🐛 0 | 🌐 Python | 📅 2022-10-19 - Regional App for Pakistan with NIC, NTN, and STRN numbers, and reports for FBR tax compliance.
-* [Italian Electronic Invoicing for ERPNext](https://github.com/Solede-SA/italian_invoice) ⭐ 8 | 🐛 3 | 🌐 Python | 📅 2026-11-21 - Complete Italian electronic invoicing management for ERPNext. FatturaPA v1.2.1 XML generation, automatic supplier invoice import, compliant VAT records, payment rounding, and pluggable provider architecture for SDI. Zero external dependencies.
+* [Italian Electronic Invoicing for ERPNext](https://github.com/Solede-SA/italian_invoice) ⭐ 8 | 🐛 4 | 🌐 Python | 📅 2026-11-27 - Complete Italian electronic invoicing management for ERPNext. FatturaPA v1.2.1 XML generation, automatic supplier invoice import, compliant VAT records, payment rounding, and pluggable provider architecture for SDI. Zero external dependencies.
 * [Swiss Accounting Integration](https://github.com/phamos-eu/Swiss-Accounting-Integration) ⭐ 8 | 🐛 11 | 🌐 Python | 📅 2026-11-18 - Extend ERPNext with Swiss QR Integration and Abacus Export.
 * [Zambia Revenue Authority Smart Invoice - CA ERPNext](https://github.com/CrystalisedApps/ca-erpnext-zra) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-04-01 - A Frappe custom application that integrates with the Zambia Revenue Authority (ZRA) Virtual Sales Data Controller (VSDC) API to enable seamless tax compliance, e-invoicing, and reporting directly within your ERP system.
 * [Payware](https://github.com/aakvatech/Payware) ⭐ 4 | 🐛 3 | 🌐 Python | 📅 2024-10-30 - ERPNext Payroll enhancements specific for functionality required in Tanzania.
@@ -294,7 +294,7 @@ Frappe, pronounced fra-pay, is a full stack, batteries-included, web framework w
 
 It is built for teams that already use ERPNext and want a practical assistant inside their existing system, not a separate chat product with a separate permission model.
 
-* [Frappe UI](https://github.com/frappe/frappe-ui) ⭐ 1,128 | 🐛 219 | 🌐 TypeScript | 📅 2026-11-25 - A set of components and utilities for rapid UI development.
+* [Frappe UI](https://github.com/frappe/frappe-ui) ⭐ 1,129 | 🐛 221 | 🌐 TypeScript | 📅 2026-11-25 - A set of components and utilities for rapid UI development.
 * [Frappe-Manager (fm)](https://github.com/rtCamp/Frappe-Manager) ⭐ 436 | 🐛 72 | 🌐 Python | 📅 2026-11-23 - A powerful CLI tool to streamline the development and deployment of Frappe and ERPNext applications using Docker. Features quick environment setup, multi-bench/site management, VSCode integration, and production-ready SSL support—all from the command line.
 * [Doppio](https://github.com/NagariaHussain/doppio) ⭐ 367 | 🐛 9 | 🌐 Python | 📅 2026-07-07 - Magically setup single page applications on your Frappe Apps.
 * [Nano Press](https://github.com/BuildWithHussain/nano_press) ⭐ 78 | 🐛 11 | 🌐 HTML | 📅 2026-02-01 - Nano Press automates your Frappe/ERPNext deployment from zero to production.
@@ -311,7 +311,7 @@ It is built for teams that already use ERPNext and want a practical assistant in
 * [Console](https://github.com/yrestom/Console) ⭐ 28 | 🐛 0 | 🌐 Python | 📅 2022-05-16 - Powerful Console for Frappe Backend.
 * [LazyChat ERPNext](https://github.com/soumyasethy/lazychat-erpnext) ⭐ 22 | 🐛 3 | 🌐 JavaScript | 📅 2026-06-02 - An open-source AI assistant docked into the ERPNext desk. It's a 101-tool MCP server with bring-your-own LLM — any OpenAI-compatible or Anthropic key, the key stays in your browser. Mutations are Apply-gated; a vision-judge loop drives self-iteration. The Frappe community's first AI-native sidekick.
 * [DocType Model Generator](https://github.com/assemmarwan/model_generator) ⭐ 21 | 🐛 4 | 🌐 Python | 📅 2020-12-28 - Generate models to different languages based on Doctype.
-* [InfraScan](https://github.com/SolDevelo/InfraScan) ⭐ 19 | 🐛 15 | 🌐 Python | 📅 2026-11-13 - Infrastructure scanning, vulnerability detection, and security auditing for Frappe deployments.
+* [InfraScan](https://github.com/SolDevelo/InfraScan) ⭐ 19 | 🐛 14 | 🌐 Python | 📅 2026-11-27 - Infrastructure scanning, vulnerability detection, and security auditing for Frappe deployments.
 * [Frappe Chrome Dev Utils](https://github.com/ascorbic-acid/frappe_chrome_dev_utils) ⭐ 17 | 🐛 0 | 🌐 JavaScript | 📅 2026-06-02 - A simple Browser Extension that help you work & develop in Frappe/ERPNext Framework.
 * [frappe\_test.vim](https://github.com/ankush/frappe_test.vim) ⭐ 13 | 🐛 0 | 🌐 Vim Script | 📅 2022-10-26 - Running Frappe unit tests at speed of thought.
 * [Frappe Schema JSON Diff](https://github.com/Robproject/fsjd) ⭐ 12 | 🐛 2 | 🌐 Python | 📅 2026-10-19 - CI tool for showing any schema changes between commits.
@@ -346,11 +346,11 @@ It is built for teams that already use ERPNext and want a practical assistant in
 
 #### AI & MCP Tooling
 
-* [Frappe Assistant Core](https://github.com/buildswithpaul/Frappe_Assistant_Core) ⭐ 339 | 🐛 7 | 🌐 Python | 📅 2026-11-27 - Infrastructure that connects LLMs to ERPNext with Model Context Protocol (MCP).
-* [Frappe Skills](https://github.com/frappe/skills) ⭐ 182 | 🐛 14 | 🌐 Python | 📅 2026-11-13 - A collection of agent skills for building Frappe Framework applications, plus general code-style and UI design skills.
+* [Frappe Assistant Core](https://github.com/buildswithpaul/Frappe_Assistant_Core) ⭐ 339 | 🐛 5 | 🌐 Python | 📅 2026-11-27 - Infrastructure that connects LLMs to ERPNext with Model Context Protocol (MCP).
+* [Frappe Skills](https://github.com/frappe/skills) ⭐ 184 | 🐛 14 | 🌐 Python | 📅 2026-11-13 - A collection of agent skills for building Frappe Framework applications, plus general code-style and UI design skills.
 * [Frappe MCP](https://github.com/frappe/mcp) ⚠️ Archived - Allows Frappe apps to function as MCP servers.
-* [HUF AI](https://github.com/tridz-dev/huf) ⭐ 129 | 🐛 114 | 🌐 Python | 📅 2026-11-27 - Open-source AI infrastructure for any app. Build multi-agent solutions, automate AI driven deterministic workflows, and keep your data under your control.
-* [MCP ERPNext](https://github.com/Casys-AI/mcp-erpnext) ⭐ 126 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-26 - MCP server for ERPNext with 97 tools across 11 categories and 7 interactive UI viewers. Zero-config setup via npx.
+* [HUF AI](https://github.com/tridz-dev/huf) ⭐ 129 | 🐛 113 | 🌐 Python | 📅 2026-11-27 - Open-source AI infrastructure for any app. Build multi-agent solutions, automate AI driven deterministic workflows, and keep your data under your control.
+* [MCP ERPNext](https://github.com/Casys-AI/mcp-erpnext) ⭐ 126 | 🐛 7 | 🌐 TypeScript | 📅 2026-11-27 - MCP server for ERPNext with 97 tools across 11 categories and 7 interactive UI viewers. Zero-config setup via npx.
 * [forge-frappe-skill](https://github.com/sbknext/forge-frappe-skill) ⭐ 18 | 🐛 0 | 📅 2026-06-07 - MIT library of 480+ curated Frappe agent-skills (DocTypes, hooks, Query Builder, permissions, REST/RPC APIs, reports, testing, ops) for AI coding agents — works via any MCP host or standalone markdown. Aggregates and credits public OSS skill sources.
 * [Frappe MCP Server](https://github.com/appliedrelevance/frappe-mcp-server) ⭐ 17 | 🐛 0 | 🌐 Python | 📅 2025-09-16 - A server that implements the Anthropic Model Control Protocol (MCP) to enable controlled access to Frappe sites.
 * [Pacioli](https://github.com/john-broadway/pacioli) ⭐ 8 | 🐛 1 | 🌐 Python | 📅 2026-11-22 - Governance layer that makes it safe to let AI agents or any automation touch your ERPNext books. Scoped deny-biased tokens, plan-prove-record workflow, immutable audit trail. Works over MCP, A2A and REST
@@ -366,7 +366,7 @@ It is built for teams that already use ERPNext and want a practical assistant in
 
 *Resources allowing you to deploy Frappe apps with your favourite toolset*
 
-* [Frappe Docker](https://github.com/frappe/frappe_docker) ⭐ 2,640 | 🐛 13 | 🌐 Python | 📅 2026-11-26 - Official docker images for Frappe.
+* [Frappe Docker](https://github.com/frappe/frappe_docker) ⭐ 2,639 | 🐛 13 | 🌐 Python | 📅 2026-11-27 - Official docker images for Frappe.
 * [Frappe Operator](https://github.com/vyogotech/frappe-operator) ⭐ 56 | 🐛 5 | 🌐 Go | 📅 2026-11-19 - Kubernetes operator for automated deployment and management of Frappe/ERPNext.
 * [ERPNextFailOver](https://github.com/martinhbramwell/ERPNextFailOver) ⭐ 34 | 🐛 1 | 🌐 Shell | 📅 2023-04-28 - Tool to automate setting up Database Replication for ERPNext.
 * [Frappista](https://github.com/vyogotech/frappista) ⭐ 15 | 🐛 3 | 🌐 Shell | 📅 2026-10-23 - Pre-baked Frappe/ERPNext images designed for quick trials and simplified development workloads. High-performance, bootable containers that include a pre-configured site for immediate use.
@@ -419,11 +419,11 @@ It is built for teams that already use ERPNext and want a practical assistant in
 
 #### Self-hosted Platforms
 
-* [Press](https://github.com/frappe/press) ⭐ 589 | 🐛 805 | 🌐 Python | 📅 2026-11-26 - Full service cloud hosting for the Frappe stack - powers Frappe Cloud
+* [Press](https://github.com/frappe/press) ⭐ 592 | 🐛 801 | 🌐 Python | 📅 2026-11-27 - Full service cloud hosting for the Frappe stack - powers Frappe Cloud
 * [ERPNext Quick Install](https://github.com/flexcomng/erpnext_quick_install) ⭐ 383 | 🐛 8 | 🌐 Shell | 📅 2026-10-04 - Unattended script for ERPNext installation (Supports Versions 13, 14, 15, 16, and Develop) for Ubuntu & Debian.
 * [Nethserver](https://github.com/geniusdynamics/ns8-erp-next) ⭐ 7 | 🐛 0 | 🌐 Vue | 📅 2026-11-15 - @geniusdynamics's configuration for NS8 with backup/restore, server to server node migration, Ldap & Active directory integration and more. \[[read more here](https://community.nethserver.org/t/erpnext-the-most-agile-erp-on-the-planet-in-ns8/24240)]
 * [BenchPress](https://github.com/Venkateshvenki404224/benchpress_devops) - Self-hosted Frappe Cloud alternative with Docker-based bench environments, WireGuard VPN, live build logs, and a Vue 3 dashboard.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-28._
